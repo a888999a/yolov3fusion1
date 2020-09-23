@@ -1,0 +1,810 @@
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00019.jpg 505.0,212.0,525.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00039.jpg 530.0,226.0,550.0,276.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00059.jpg 565.0,234.0,590.0,294.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00239.jpg 433.0,217.0,453.0,252.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00259.jpg 460.0,218.0,480.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00279.jpg 492.0,215.0,512.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00339.jpg 459.0,207.0,479.0,248.0,0 444.0,209.0,463.0,243.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00359.jpg 465.0,217.0,487.0,265.0,0 451.0,214.0,471.0,265.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00379.jpg 467.0,224.0,487.0,264.0,0 482.0,221.0,503.0,263.0,0 380.0,216.0,396.0,249.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00399.jpg 518.0,217.0,539.0,276.0,0 492.0,220.0,513.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00419.jpg 574.0,216.0,601.0,279.0,0 544.0,217.0,567.0,276.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00439.jpg 458.0,217.0,478.0,268.0,0 440.0,217.0,461.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00459.jpg 500.0,215.0,520.0,261.0,0 481.0,217.0,503.0,262.0,0 524.0,210.0,551.0,285.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00479.jpg 568.0,212.0,594.0,273.0,0 547.0,215.0,569.0,274.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00499.jpg 327.0,219.0,346.0,248.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00519.jpg 316.0,216.0,336.0,255.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00539.jpg 292.0,217.0,314.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00559.jpg 250.0,213.0,277.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00579.jpg 189.0,214.0,221.0,285.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00599.jpg 91.0,215.0,131.0,302.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00659.jpg 461.0,212.0,481.0,253.0,0 441.0,213.0,459.0,254.0,0 365.0,210.0,381.0,237.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00679.jpg 367.0,212.0,384.0,244.0,0 470.0,215.0,491.0,263.0,0 492.0,216.0,512.0,261.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00699.jpg 374.0,210.0,393.0,247.0,0 555.0,220.0,581.0,275.0,0 525.0,218.0,556.0,276.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00719.jpg 397.0,210.0,418.0,257.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00739.jpg 438.0,217.0,458.0,272.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00759.jpg 508.0,225.0,538.0,307.0,0 493.0,224.0,513.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00779.jpg 573.0,223.0,597.0,282.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00799.jpg 158.0,216.0,178.0,257.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00819.jpg 119.0,214.0,141.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00879.jpg 408.0,203.0,428.0,244.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00899.jpg 450.0,205.0,470.0,252.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00919.jpg 481.0,215.0,501.0,271.0,0 497.0,215.0,521.0,274.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I00939.jpg 576.0,217.0,604.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01079.jpg 484.0,211.0,505.0,257.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01099.jpg 557.0,215.0,581.0,269.0,0 572.0,223.0,593.0,267.0,0 391.0,216.0,412.0,257.0,0 374.0,217.0,393.0,253.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01119.jpg 422.0,221.0,443.0,272.0,0 401.0,220.0,422.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01139.jpg 456.0,228.0,484.0,297.0,0 488.0,226.0,513.0,300.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01159.jpg 473.0,212.0,492.0,255.0,0 385.0,203.0,403.0,234.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01179.jpg 533.0,212.0,557.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01199.jpg 423.0,198.0,446.0,249.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01219.jpg 467.0,198.0,492.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01239.jpg 527.0,206.0,558.0,283.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01259.jpg 602.0,154.0,639.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01279.jpg 377.0,208.0,394.0,244.0,0 406.0,208.0,421.0,240.0,0 397.0,211.0,409.0,237.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01299.jpg 382.0,207.0,399.0,241.0,0 401.0,209.0,419.0,240.0,0 415.0,205.0,437.0,241.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01319.jpg 379.0,211.0,402.0,255.0,0 399.0,210.0,420.0,256.0,0 419.0,210.0,441.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01339.jpg 375.0,211.0,398.0,260.0,0 398.0,210.0,418.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01359.jpg 350.0,217.0,371.0,270.0,0 365.0,212.0,386.0,266.0,0 316.0,216.0,342.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01379.jpg 342.0,212.0,364.0,261.0,0 396.0,214.0,416.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01399.jpg 440.0,208.0,466.0,271.0,0 415.0,213.0,439.0,264.0,0 391.0,214.0,414.0,264.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01419.jpg 457.0,216.0,482.0,275.0,0 483.0,209.0,508.0,269.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01439.jpg 517.0,210.0,541.0,278.0,0 488.0,221.0,509.0,276.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01459.jpg 538.0,220.0,559.0,282.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01479.jpg 574.0,227.0,599.0,289.0,0 598.0,225.0,620.0,280.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01499.jpg 519.0,226.0,547.0,292.0,0 592.0,235.0,612.0,283.0,0 541.0,231.0,564.0,285.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V000_I01519.jpg 553.0,223.0,579.0,288.0,0 526.0,221.0,554.0,286.0,0 506.0,224.0,533.0,287.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00019.jpg 582.0,226.0,617.0,304.0,0 450.0,231.0,466.0,261.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00039.jpg 579.0,228.0,625.0,332.0,0 612.0,235.0,640.0,322.0,0 464.0,224.0,480.0,264.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00059.jpg 479.0,220.0,502.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00079.jpg 509.0,214.0,535.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00099.jpg 576.0,219.0,605.0,287.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00119.jpg 387.0,204.0,404.0,239.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00139.jpg 419.0,202.0,439.0,239.0,0 399.0,200.0,421.0,241.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00159.jpg 419.0,233.0,442.0,283.0,0 439.0,235.0,461.0,278.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00179.jpg 442.0,205.0,468.0,264.0,0 469.0,213.0,491.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00199.jpg 480.0,209.0,507.0,271.0,0 507.0,210.0,535.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00219.jpg 553.0,208.0,592.0,301.0,0 589.0,208.0,630.0,301.0,0 359.0,215.0,378.0,250.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00239.jpg 382.0,219.0,399.0,250.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00259.jpg 404.0,216.0,424.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00299.jpg 470.0,221.0,496.0,269.0,0 298.0,201.0,316.0,228.0,0 442.0,221.0,459.0,259.0,0 453.0,219.0,471.0,265.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00319.jpg 511.0,215.0,544.0,279.0,0 474.0,217.0,495.0,264.0,0 549.0,218.0,570.0,265.0,0 303.0,195.0,319.0,222.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00339.jpg 575.0,217.0,612.0,302.0,0 607.0,223.0,628.0,281.0,0 552.0,223.0,569.0,270.0,0 305.0,196.0,322.0,231.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00359.jpg 541.0,215.0,572.0,288.0,0 561.0,219.0,593.0,292.0,0 385.0,201.0,401.0,239.0,0 360.0,202.0,378.0,240.0,0 371.0,199.0,387.0,239.0,0 305.0,191.0,327.0,234.0,0 172.0,169.0,192.0,200.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00379.jpg 549.0,216.0,585.0,304.0,0 579.0,218.0,612.0,303.0,0 611.0,229.0,640.0,282.0,0 335.0,201.0,357.0,247.0,0 347.0,198.0,371.0,247.0,0 362.0,198.0,386.0,246.0,0 274.0,188.0,296.0,233.0,0 431.0,220.0,454.0,261.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00399.jpg 516.0,213.0,562.0,312.0,0 550.0,215.0,585.0,307.0,0 198.0,186.0,225.0,238.0,0 259.0,202.0,288.0,259.0,0 297.0,203.0,326.0,253.0,0 279.0,202.0,306.0,259.0,0 586.0,222.0,618.0,282.0,0 378.0,219.0,404.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00419.jpg 440.0,213.0,485.0,314.0,0 473.0,213.0,510.0,310.0,0 101.0,189.0,132.0,249.0,0 176.0,212.0,208.0,279.0,0 216.0,209.0,248.0,266.0,0 194.0,209.0,223.0,273.0,0 528.0,220.0,557.0,282.0,0 301.0,216.0,326.0,271.0,0 600.0,210.0,626.0,256.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00439.jpg 346.0,212.0,401.0,317.0,0 392.0,215.0,432.0,310.0,0 12.0,190.0,52.0,264.0,0 102.0,214.0,138.0,290.0,0 149.0,213.0,182.0,284.0,0 123.0,216.0,153.0,284.0,0 464.0,221.0,499.0,285.0,0 215.0,217.0,245.0,281.0,0 550.0,205.0,579.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00459.jpg 282.0,209.0,334.0,320.0,0 331.0,213.0,374.0,316.0,0 54.0,211.0,84.0,291.0,0 106.0,212.0,139.0,289.0,0 78.0,213.0,106.0,290.0,0 587.0,232.0,636.0,342.0,0 421.0,222.0,451.0,287.0,0 163.0,215.0,194.0,287.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00479.jpg 256.0,211.0,298.0,321.0,0 286.0,211.0,331.0,321.0,0 48.0,206.0,86.0,294.0,0 106.0,212.0,139.0,289.0,0 74.0,207.0,109.0,293.0,0 535.0,230.0,581.0,340.0,0 403.0,223.0,432.0,282.0,0 140.0,222.0,171.0,284.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00499.jpg 238.0,219.0,278.0,315.0,0 269.0,217.0,308.0,309.0,0 66.0,212.0,105.0,296.0,0 128.0,219.0,163.0,294.0,0 91.0,213.0,123.0,293.0,0 501.0,225.0,544.0,324.0,0 403.0,217.0,439.0,284.0,0 142.0,224.0,171.0,291.0,0 468.0,208.0,498.0,273.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00519.jpg 215.0,220.0,260.0,309.0,0 246.0,213.0,287.0,311.0,0 84.0,214.0,125.0,309.0,0 147.0,214.0,182.0,302.0,0 110.0,209.0,146.0,300.0,0 538.0,235.0,596.0,421.0,0 475.0,219.0,517.0,320.0,0 420.0,218.0,455.0,282.0,0 140.0,225.0,173.0,298.0,0 454.0,206.0,480.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00539.jpg 211.0,213.0,250.0,306.0,0 194.0,220.0,230.0,302.0,0 103.0,213.0,143.0,314.0,0 164.0,220.0,199.0,305.0,0 125.0,214.0,160.0,312.0,0 464.0,240.0,526.0,404.0,0 445.0,229.0,479.0,309.0,0 433.0,220.0,458.0,280.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00559.jpg 92.0,218.0,142.0,319.0,0 150.0,214.0,189.0,324.0,0 117.0,212.0,157.0,327.0,0 401.0,234.0,461.0,395.0,0 398.0,226.0,435.0,314.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00579.jpg 19.0,213.0,70.0,344.0,0 108.0,210.0,154.0,332.0,0 65.0,211.0,120.0,335.0,0 305.0,225.0,377.0,396.0,0 338.0,214.0,373.0,281.0,0 383.0,212.0,416.0,277.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00599.jpg 127.0,229.0,207.0,403.0,0 158.0,227.0,213.0,319.0,0 215.0,220.0,245.0,286.0,0 268.0,215.0,306.0,286.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I00619.jpg 17.0,215.0,54.0,288.0,0 127.0,216.0,157.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I02599.jpg 470.0,195.0,501.0,246.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I02619.jpg 550.0,195.0,574.0,235.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I02639.jpg 537.0,198.0,565.0,243.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I02659.jpg 518.0,208.0,547.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V001_I02679.jpg 531.0,225.0,567.0,299.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I00159.jpg 416.0,216.0,440.0,261.0,0 431.0,214.0,453.0,261.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I00179.jpg 451.0,220.0,478.0,271.0,0 472.0,220.0,498.0,271.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I00199.jpg 535.0,217.0,570.0,287.0,0 510.0,222.0,545.0,289.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I00379.jpg 357.0,207.0,377.0,240.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I00399.jpg 377.0,246.0,403.0,286.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I00419.jpg 409.0,246.0,440.0,302.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I00439.jpg 471.0,244.0,508.0,321.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I00619.jpg 18.0,192.0,64.0,271.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I00639.jpg 236.0,207.0,270.0,290.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I00819.jpg 609.0,236.0,631.0,288.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I00859.jpg 573.0,216.0,591.0,248.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I00879.jpg 571.0,213.0,591.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I00999.jpg 400.0,220.0,420.0,254.0,0 414.0,223.0,431.0,255.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01019.jpg 416.0,225.0,442.0,269.0,0 429.0,226.0,456.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01039.jpg 445.0,235.0,474.0,283.0,0 463.0,234.0,494.0,284.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01059.jpg 496.0,228.0,532.0,301.0,0 522.0,230.0,555.0,303.0,0 512.0,230.0,542.0,303.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01079.jpg 603.0,231.0,640.0,346.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01139.jpg 389.0,221.0,409.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01159.jpg 433.0,215.0,454.0,256.0,0 410.0,214.0,431.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01179.jpg 421.0,205.0,448.0,262.0,0 455.0,204.0,487.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01199.jpg 493.0,214.0,526.0,281.0,0 358.0,205.0,383.0,252.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01219.jpg 500.0,206.0,540.0,301.0,0 557.0,205.0,595.0,297.0,0 370.0,199.0,395.0,246.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01239.jpg 569.0,226.0,636.0,369.0,0 388.0,224.0,413.0,272.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01259.jpg 133.0,214.0,158.0,261.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01279.jpg 120.0,209.0,147.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01299.jpg 105.0,198.0,140.0,268.0,0 493.0,196.0,532.0,299.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01319.jpg 77.0,195.0,121.0,283.0,0 603.0,204.0,640.0,358.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01439.jpg 14.0,210.0,37.0,252.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01459.jpg 216.0,210.0,238.0,245.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01479.jpg 327.0,204.0,352.0,251.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01499.jpg 394.0,208.0,421.0,261.0,0 455.0,214.0,477.0,257.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01519.jpg 450.0,218.0,484.0,279.0,0 506.0,216.0,533.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01539.jpg 549.0,217.0,591.0,297.0,0 582.0,212.0,616.0,279.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01559.jpg 487.0,211.0,509.0,253.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01579.jpg 522.0,206.0,551.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01599.jpg 589.0,208.0,619.0,272.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V002_I01679.jpg 488.0,190.0,515.0,246.0,0 554.0,191.0,587.0,250.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00019.jpg 495.0,213.0,519.0,255.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00039.jpg 546.0,209.0,569.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00059.jpg 588.0,252.0,611.0,311.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00099.jpg 505.0,200.0,529.0,241.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00119.jpg 517.0,204.0,537.0,246.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00139.jpg 528.0,230.0,550.0,275.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00159.jpg 529.0,185.0,550.0,231.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00179.jpg 545.0,229.0,566.0,272.0,0 426.0,240.0,443.0,275.0,0 435.0,235.0,456.0,275.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00199.jpg 554.0,183.0,574.0,232.0,0 441.0,191.0,462.0,225.0,0 455.0,187.0,474.0,232.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00219.jpg 554.0,205.0,582.0,252.0,0 458.0,214.0,479.0,253.0,0 474.0,205.0,498.0,255.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00239.jpg 547.0,207.0,569.0,260.0,0 468.0,219.0,490.0,264.0,0 484.0,215.0,510.0,266.0,0 49.0,218.0,69.0,259.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00259.jpg 539.0,205.0,561.0,260.0,0 479.0,212.0,501.0,262.0,0 495.0,208.0,521.0,265.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00279.jpg 551.0,217.0,574.0,276.0,0 509.0,229.0,532.0,282.0,0 531.0,220.0,559.0,280.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00299.jpg 586.0,232.0,610.0,290.0,0 612.0,227.0,640.0,289.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00339.jpg 409.0,220.0,427.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00359.jpg 429.0,214.0,449.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00379.jpg 453.0,208.0,474.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00399.jpg 480.0,219.0,503.0,272.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00419.jpg 530.0,211.0,558.0,279.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00459.jpg 431.0,214.0,451.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00479.jpg 457.0,208.0,481.0,255.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00499.jpg 498.0,217.0,520.0,266.0,0 479.0,208.0,505.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00519.jpg 542.0,209.0,569.0,275.0,0 524.0,214.0,548.0,279.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00539.jpg 616.0,190.0,639.0,266.0,0 584.0,190.0,610.0,273.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00559.jpg 471.0,212.0,493.0,253.0,0 419.0,213.0,438.0,247.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00579.jpg 488.0,211.0,509.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00599.jpg 517.0,212.0,539.0,270.0,0 462.0,218.0,478.0,256.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00619.jpg 568.0,215.0,600.0,279.0,0 514.0,214.0,534.0,257.0,0 500.0,215.0,521.0,260.0,0 450.0,215.0,472.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00639.jpg 565.0,213.0,586.0,262.0,0 547.0,216.0,568.0,269.0,0 487.0,215.0,509.0,259.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00659.jpg 519.0,210.0,543.0,267.0,0 592.0,217.0,616.0,272.0,0 608.0,218.0,633.0,274.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00679.jpg 558.0,211.0,589.0,283.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00699.jpg 475.0,211.0,496.0,255.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00719.jpg 463.0,212.0,483.0,255.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00739.jpg 610.0,206.0,637.0,268.0,0 445.0,208.0,469.0,257.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00759.jpg 506.0,209.0,529.0,260.0,0 526.0,211.0,547.0,258.0,0 449.0,208.0,474.0,269.0,0 490.0,205.0,509.0,242.0,0 383.0,210.0,400.0,245.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00779.jpg 595.0,209.0,622.0,277.0,0 538.0,205.0,558.0,251.0,0 399.0,212.0,417.0,249.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00799.jpg 548.0,237.0,585.0,328.0,0 414.0,233.0,435.0,283.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00819.jpg 434.0,219.0,454.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00859.jpg 380.0,212.0,396.0,248.0,0 399.0,210.0,415.0,246.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00879.jpg 515.0,216.0,547.0,279.0,0 381.0,213.0,404.0,254.0,0 433.0,213.0,455.0,252.0,0 412.0,214.0,427.0,250.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00899.jpg 604.0,223.0,640.0,320.0,0 496.0,212.0,517.0,269.0,0 478.0,211.0,498.0,263.0,0 431.0,211.0,455.0,257.0,0 418.0,211.0,439.0,259.0,0 404.0,214.0,425.0,261.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00919.jpg 584.0,217.0,607.0,283.0,0 534.0,209.0,557.0,263.0,0 435.0,212.0,459.0,273.0,0 449.0,215.0,472.0,271.0,0 472.0,214.0,492.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00939.jpg 484.0,219.0,516.0,303.0,0 501.0,217.0,532.0,301.0,0 536.0,218.0,566.0,299.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00959.jpg 595.0,236.0,640.0,347.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00979.jpg 510.0,217.0,530.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I00999.jpg 607.0,220.0,640.0,308.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01019.jpg 437.0,208.0,456.0,241.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01039.jpg 469.0,206.0,491.0,252.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01059.jpg 521.0,208.0,543.0,262.0,0 30.0,208.0,50.0,251.0,0 43.0,210.0,65.0,253.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01079.jpg 595.0,219.0,615.0,282.0,0 3.0,216.0,25.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01179.jpg 432.0,224.0,448.0,259.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01199.jpg 458.0,219.0,483.0,265.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01219.jpg 518.0,218.0,541.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01279.jpg 341.0,214.0,359.0,248.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01319.jpg 432.0,214.0,447.0,249.0,0 447.0,207.0,464.0,243.0,0 353.0,214.0,373.0,251.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01339.jpg 467.0,220.0,487.0,261.0,0 488.0,217.0,509.0,259.0,0 450.0,217.0,472.0,263.0,0 357.0,218.0,381.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01359.jpg 492.0,221.0,517.0,274.0,0 510.0,216.0,534.0,271.0,0 572.0,216.0,592.0,270.0,0 438.0,204.0,455.0,246.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01379.jpg 564.0,226.0,594.0,295.0,0 590.0,220.0,617.0,298.0,0 465.0,206.0,485.0,247.0,0 480.0,200.0,501.0,249.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01399.jpg 517.0,208.0,542.0,261.0,0 547.0,207.0,567.0,261.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01479.jpg 417.0,234.0,435.0,269.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01499.jpg 428.0,199.0,450.0,245.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01519.jpg 497.0,205.0,523.0,253.0,0 446.0,200.0,470.0,249.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01539.jpg 533.0,204.0,559.0,259.0,0 472.0,207.0,497.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01559.jpg 590.0,211.0,618.0,275.0,0 506.0,215.0,533.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01579.jpg 555.0,217.0,584.0,279.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01599.jpg 417.0,231.0,433.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01619.jpg 411.0,229.0,428.0,266.0,0 423.0,226.0,439.0,265.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01639.jpg 427.0,227.0,449.0,278.0,0 445.0,220.0,466.0,273.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01659.jpg 458.0,224.0,481.0,279.0,0 485.0,224.0,507.0,278.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01679.jpg 508.0,223.0,538.0,301.0,0 534.0,220.0,562.0,297.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01699.jpg 568.0,209.0,604.0,289.0,0 607.0,221.0,640.0,325.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01719.jpg 407.0,205.0,427.0,249.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01739.jpg 439.0,205.0,462.0,256.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01759.jpg 482.0,175.0,512.0,245.0,0 74.0,160.0,98.0,206.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01779.jpg 543.0,218.0,575.0,315.0,0 465.0,205.0,487.0,249.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01799.jpg 492.0,211.0,516.0,259.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01819.jpg 550.0,217.0,574.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01879.jpg 495.0,224.0,520.0,289.0,0 519.0,223.0,540.0,291.0,0 235.0,218.0,251.0,251.0,0 254.0,219.0,269.0,249.0,0 470.0,214.0,491.0,257.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01899.jpg 592.0,225.0,632.0,323.0,0 227.0,214.0,244.0,247.0,0 249.0,216.0,267.0,250.0,0 547.0,211.0,568.0,258.0,0 516.0,210.0,539.0,262.0,0 402.0,214.0,418.0,247.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01919.jpg 219.0,215.0,240.0,257.0,0 246.0,212.0,266.0,258.0,0 606.0,217.0,635.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01939.jpg 207.0,213.0,229.0,257.0,0 236.0,208.0,258.0,258.0,0 453.0,217.0,475.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01959.jpg 177.0,215.0,200.0,269.0,0 448.0,213.0,473.0,264.0,0 405.0,212.0,433.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01979.jpg 92.0,213.0,119.0,271.0,0 118.0,215.0,148.0,266.0,0 252.0,163.0,273.0,201.0,0 432.0,216.0,458.0,269.0,0 370.0,215.0,398.0,268.0,0 407.0,216.0,433.0,272.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I01999.jpg 48.0,224.0,82.0,285.0,0 193.0,164.0,215.0,196.0,0 401.0,218.0,432.0,287.0,0 325.0,223.0,349.0,280.0,0 340.0,218.0,367.0,281.0,0 1.0,218.0,41.0,284.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02019.jpg 102.0,148.0,128.0,190.0,0 337.0,216.0,370.0,296.0,0 253.0,216.0,279.0,279.0,0 226.0,217.0,256.0,281.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02039.jpg 267.0,217.0,307.0,307.0,0 52.0,218.0,94.0,293.0,0 153.0,216.0,183.0,285.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02059.jpg 154.0,221.0,193.0,323.0,0 14.0,212.0,55.0,291.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02079.jpg 3.0,221.0,48.0,340.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02239.jpg 282.0,216.0,303.0,265.0,0 297.0,215.0,319.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02259.jpg 331.0,213.0,355.0,280.0,0 354.0,219.0,380.0,275.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02279.jpg 361.0,219.0,388.0,293.0,0 387.0,226.0,415.0,297.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02299.jpg 397.0,219.0,436.0,324.0,0 440.0,236.0,472.0,331.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02319.jpg 457.0,224.0,527.0,400.0,0 542.0,248.0,597.0,392.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02539.jpg 53.0,223.0,87.0,303.0,0 19.0,229.0,56.0,294.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02559.jpg 322.0,227.0,350.0,302.0,0 355.0,229.0,385.0,303.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02579.jpg 331.0,229.0,353.0,299.0,0 350.0,221.0,386.0,304.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02599.jpg 132.0,230.0,177.0,328.0,0 172.0,218.0,221.0,328.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02699.jpg 436.0,207.0,456.0,249.0,0 158.0,210.0,176.0,242.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02719.jpg 446.0,207.0,466.0,249.0,0 149.0,203.0,169.0,242.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02739.jpg 117.0,213.0,137.0,252.0,0 370.0,205.0,389.0,241.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02759.jpg 98.0,216.0,118.0,255.0,0 322.0,208.0,342.0,242.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02779.jpg 123.0,215.0,143.0,254.0,0 282.0,208.0,303.0,253.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02799.jpg 157.0,211.0,177.0,253.0,0 250.0,208.0,274.0,255.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02819.jpg 197.0,218.0,217.0,257.0,0 223.0,212.0,243.0,251.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02839.jpg 236.0,220.0,256.0,259.0,0 192.0,212.0,212.0,251.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02859.jpg 276.0,216.0,297.0,264.0,0 160.0,213.0,180.0,252.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02879.jpg 308.0,220.0,333.0,263.0,0 132.0,211.0,152.0,250.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02899.jpg 337.0,219.0,364.0,266.0,0 99.0,215.0,119.0,254.0,0 60.0,228.0,101.0,318.0,0 89.0,224.0,134.0,313.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02919.jpg 370.0,225.0,390.0,271.0,0 53.0,214.0,73.0,253.0,0 8.0,221.0,59.0,325.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02939.jpg 390.0,222.0,410.0,271.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02959.jpg 344.0,245.0,408.0,344.0,0 401.0,223.0,429.0,275.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02979.jpg 389.0,220.0,410.0,281.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I02999.jpg 368.0,220.0,398.0,281.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03019.jpg 444.0,221.0,468.0,295.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03039.jpg 533.0,229.0,563.0,313.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03059.jpg 2.0,210.0,79.0,414.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03079.jpg 41.0,215.0,108.0,416.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03099.jpg 96.0,210.0,167.0,411.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03119.jpg 190.0,210.0,260.0,411.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03139.jpg 334.0,223.0,400.0,427.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03159.jpg 534.0,236.0,608.0,463.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03379.jpg 303.0,218.0,323.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03399.jpg 283.0,219.0,305.0,257.0,0 140.0,215.0,158.0,250.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03419.jpg 264.0,220.0,288.0,261.0,0 144.0,215.0,159.0,251.0,0 153.0,214.0,173.0,253.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03439.jpg 242.0,222.0,268.0,266.0,0 359.0,224.0,381.0,269.0,0 143.0,222.0,161.0,259.0,0 154.0,219.0,178.0,261.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03459.jpg 192.0,223.0,221.0,273.0,0 323.0,218.0,347.0,271.0,0 437.0,218.0,455.0,261.0,0 136.0,216.0,157.0,264.0,0 122.0,218.0,140.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03479.jpg 119.0,221.0,153.0,287.0,0 275.0,212.0,301.0,273.0,0 105.0,219.0,125.0,264.0,0 418.0,215.0,437.0,248.0,0 403.0,216.0,422.0,249.0,0 389.0,215.0,405.0,249.0,0 376.0,216.0,392.0,248.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03499.jpg 207.0,214.0,236.0,283.0,0 68.0,216.0,100.0,268.0,0 43.0,213.0,70.0,269.0,0 464.0,218.0,487.0,268.0,0 431.0,216.0,449.0,252.0,0 411.0,214.0,427.0,250.0,0 398.0,215.0,414.0,250.0,0 384.0,213.0,400.0,252.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03519.jpg 84.0,220.0,136.0,310.0,0 486.0,223.0,510.0,282.0,0 382.0,217.0,403.0,264.0,0 440.0,215.0,457.0,258.0,0 419.0,211.0,437.0,254.0,0 397.0,212.0,421.0,260.0,0 12.0,207.0,39.0,265.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03539.jpg 534.0,229.0,561.0,301.0,0 434.0,216.0,456.0,267.0,0 384.0,221.0,407.0,270.0,0 464.0,219.0,487.0,268.0,0 523.0,222.0,546.0,272.0,0 410.0,221.0,431.0,265.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03559.jpg 464.0,218.0,487.0,275.0,0 397.0,222.0,421.0,280.0,0 515.0,222.0,546.0,278.0,0 433.0,222.0,456.0,274.0,0 592.0,214.0,630.0,288.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03579.jpg 499.0,218.0,528.0,290.0,0 432.0,218.0,466.0,297.0,0 607.0,224.0,632.0,292.0,0 474.0,220.0,499.0,293.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03599.jpg 512.0,212.0,556.0,327.0,0 570.0,219.0,605.0,317.0,0 588.0,228.0,634.0,341.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03879.jpg 169.0,223.0,188.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03899.jpg 208.0,225.0,225.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03919.jpg 239.0,222.0,258.0,264.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03939.jpg 254.0,219.0,276.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03959.jpg 254.0,224.0,279.0,269.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03979.jpg 291.0,220.0,313.0,278.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I03999.jpg 341.0,217.0,365.0,277.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I04019.jpg 403.0,214.0,428.0,279.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I04039.jpg 474.0,213.0,506.0,289.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V003_I04059.jpg 566.0,210.0,604.0,314.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I00199.jpg 40.0,209.0,129.0,489.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I00219.jpg 352.0,219.0,438.0,466.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I00739.jpg 343.0,233.0,363.0,274.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I00759.jpg 230.0,227.0,249.0,269.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I00779.jpg 179.0,230.0,201.0,275.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I00799.jpg 118.0,227.0,146.0,287.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I00819.jpg 31.0,227.0,74.0,316.0,0 150.0,221.0,168.0,257.0,0 182.0,223.0,201.0,258.0,0 222.0,225.0,242.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I00839.jpg 202.0,220.0,223.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01019.jpg 16.0,211.0,70.0,361.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01159.jpg 408.0,221.0,429.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01179.jpg 441.0,220.0,461.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01219.jpg 516.0,221.0,544.0,285.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01239.jpg 575.0,218.0,607.0,296.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01339.jpg 123.0,211.0,148.0,253.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01359.jpg 89.0,208.0,114.0,247.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01379.jpg 16.0,207.0,53.0,261.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01399.jpg 273.0,208.0,294.0,247.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01419.jpg 284.0,206.0,306.0,249.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01439.jpg 328.0,205.0,348.0,246.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01459.jpg 361.0,206.0,382.0,242.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01479.jpg 408.0,200.0,433.0,248.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01499.jpg 462.0,229.0,485.0,276.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01519.jpg 527.0,213.0,552.0,265.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01539.jpg 511.0,211.0,547.0,290.0,0 597.0,210.0,625.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01559.jpg 604.0,216.0,640.0,303.0,0 331.0,199.0,353.0,247.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01579.jpg 367.0,202.0,392.0,251.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01619.jpg 229.0,211.0,263.0,278.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01679.jpg 516.0,214.0,538.0,262.0,0 473.0,217.0,494.0,257.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01699.jpg 456.0,214.0,479.0,266.0,0 505.0,217.0,527.0,265.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01719.jpg 489.0,218.0,512.0,270.0,0 555.0,217.0,582.0,275.0,0 441.0,218.0,458.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01739.jpg 564.0,219.0,603.0,283.0,0 470.0,213.0,491.0,255.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01759.jpg 510.0,208.0,534.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01779.jpg 573.0,209.0,597.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01819.jpg 84.0,192.0,111.0,234.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I01999.jpg 436.0,209.0,456.0,249.0,0 480.0,204.0,500.0,247.0,0 453.0,207.0,473.0,249.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02019.jpg 490.0,206.0,510.0,248.0,0 472.0,205.0,493.0,249.0,0 542.0,205.0,570.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02039.jpg 543.0,198.0,566.0,256.0,0 522.0,201.0,545.0,258.0,0 449.0,203.0,470.0,247.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02059.jpg 600.0,207.0,631.0,275.0,0 433.0,198.0,453.0,242.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02079.jpg 529.0,208.0,552.0,265.0,0 458.0,194.0,480.0,245.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02099.jpg 578.0,248.0,602.0,311.0,0 480.0,235.0,504.0,298.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02119.jpg 499.0,200.0,532.0,278.0,0 431.0,204.0,449.0,235.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02139.jpg 556.0,221.0,593.0,301.0,0 460.0,207.0,487.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02159.jpg 521.0,214.0,552.0,275.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02219.jpg 109.0,206.0,129.0,247.0,0 568.0,211.0,594.0,265.0,0 587.0,208.0,615.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02259.jpg 460.0,220.0,478.0,253.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02279.jpg 506.0,218.0,528.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02299.jpg 583.0,212.0,614.0,275.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02319.jpg 88.0,218.0,115.0,253.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02339.jpg 47.0,212.0,74.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02359.jpg 466.0,217.0,483.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02379.jpg 526.0,216.0,547.0,272.0,0 100.0,219.0,124.0,265.0,0 37.0,214.0,68.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02399.jpg 434.0,206.0,456.0,259.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02479.jpg 98.0,216.0,120.0,256.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02619.jpg 430.0,209.0,450.0,251.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02639.jpg 474.0,209.0,498.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02659.jpg 544.0,202.0,573.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02739.jpg 159.0,216.0,182.0,262.0,0 136.0,220.0,156.0,259.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set06_V004_I02779.jpg 61.0,223.0,94.0,287.0,0 31.0,218.0,71.0,285.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I00019.jpg 424.0,207.0,447.0,253.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I00039.jpg 506.0,210.0,534.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I00379.jpg 362.0,212.0,382.0,246.0,0 345.0,210.0,365.0,243.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I00399.jpg 430.0,218.0,450.0,263.0,0 405.0,218.0,425.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I00419.jpg 532.0,222.0,567.0,302.0,0 564.0,220.0,607.0,305.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I00499.jpg 413.0,220.0,433.0,256.0,0 427.0,220.0,449.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I00679.jpg 354.0,208.0,375.0,251.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I00699.jpg 394.0,214.0,420.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I00739.jpg 435.0,203.0,459.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I00759.jpg 539.0,208.0,571.0,285.0,0 565.0,209.0,592.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I00919.jpg 430.0,211.0,450.0,249.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I00939.jpg 479.0,219.0,499.0,260.0,0 544.0,213.0,570.0,265.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I00959.jpg 556.0,216.0,584.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01219.jpg 570.0,224.0,600.0,278.0,0 603.0,219.0,635.0,280.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01239.jpg 600.0,209.0,624.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01259.jpg 542.0,210.0,567.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01299.jpg 531.0,208.0,555.0,264.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01379.jpg 417.0,213.0,434.0,246.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01399.jpg 403.0,219.0,426.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01419.jpg 387.0,208.0,411.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01439.jpg 405.0,210.0,429.0,260.0,0 357.0,210.0,375.0,246.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01459.jpg 451.0,215.0,482.0,282.0,0 379.0,220.0,402.0,257.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01479.jpg 437.0,215.0,462.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01519.jpg 402.0,214.0,424.0,259.0,0 388.0,216.0,409.0,264.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01539.jpg 488.0,213.0,518.0,290.0,0 464.0,216.0,496.0,290.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01599.jpg 340.0,213.0,368.0,241.0,0 385.0,212.0,401.0,251.0,0 369.0,212.0,385.0,245.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01619.jpg 404.0,212.0,423.0,257.0,0 382.0,211.0,399.0,249.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01639.jpg 444.0,217.0,472.0,279.0,0 408.0,215.0,433.0,267.0,0 393.0,213.0,414.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01659.jpg 524.0,215.0,563.0,308.0,0 463.0,220.0,488.0,283.0,0 442.0,214.0,463.0,275.0,0 424.0,219.0,448.0,274.0,0 408.0,222.0,432.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01679.jpg 511.0,215.0,538.0,301.0,0 565.0,209.0,606.0,316.0,0 528.0,203.0,563.0,311.0,0 485.0,217.0,516.0,306.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01959.jpg 390.0,207.0,409.0,244.0,0 426.0,209.0,441.0,240.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01979.jpg 386.0,205.0,406.0,242.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I01999.jpg 399.0,208.0,419.0,245.0,0 459.0,208.0,477.0,244.0,0 432.0,206.0,448.0,238.0,0 445.0,205.0,461.0,237.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I02019.jpg 509.0,209.0,530.0,258.0,0 457.0,202.0,477.0,239.0,0 444.0,202.0,464.0,239.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I02039.jpg 608.0,220.0,639.0,290.0,0 589.0,222.0,615.0,284.0,0 460.0,218.0,483.0,283.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I02059.jpg 535.0,212.0,571.0,300.0,0 494.0,205.0,514.0,248.0,0 515.0,205.0,537.0,250.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I02079.jpg 566.0,195.0,591.0,250.0,0 539.0,195.0,565.0,249.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I02139.jpg 452.0,212.0,472.0,250.0,0 440.0,213.0,460.0,250.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I02159.jpg 514.0,209.0,534.0,258.0,0 477.0,204.0,499.0,246.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I02179.jpg 591.0,203.0,613.0,259.0,0 574.0,205.0,594.0,259.0,0 554.0,208.0,574.0,259.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I02359.jpg 409.0,211.0,425.0,243.0,0 424.0,214.0,439.0,241.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I02399.jpg 448.0,207.0,470.0,248.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I02419.jpg 487.0,212.0,507.0,252.0,0 456.0,211.0,475.0,250.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I02439.jpg 520.0,209.0,544.0,263.0,0 460.0,209.0,483.0,245.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I02459.jpg 563.0,207.0,590.0,274.0,0 471.0,209.0,489.0,247.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I02479.jpg 476.0,208.0,495.0,248.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V000_I02519.jpg 473.0,212.0,490.0,245.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01059.jpg 546.0,211.0,573.0,272.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01079.jpg 487.0,213.0,514.0,261.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01099.jpg 473.0,212.0,496.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01119.jpg 471.0,213.0,494.0,259.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01159.jpg 484.0,210.0,504.0,248.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01179.jpg 494.0,206.0,516.0,250.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01219.jpg 498.0,201.0,520.0,238.0,0 542.0,198.0,566.0,245.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01239.jpg 565.0,200.0,586.0,249.0,0 550.0,201.0,571.0,243.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01319.jpg 551.0,229.0,573.0,273.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01479.jpg 481.0,214.0,503.0,256.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01499.jpg 571.0,218.0,595.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01539.jpg 435.0,220.0,459.0,264.0,0 566.0,213.0,590.0,261.0,0 592.0,218.0,615.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01559.jpg 461.0,228.0,491.0,281.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01579.jpg 539.0,234.0,583.0,303.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01719.jpg 388.0,215.0,412.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01739.jpg 496.0,221.0,520.0,272.0,0 417.0,216.0,440.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01759.jpg 589.0,206.0,619.0,282.0,0 461.0,210.0,495.0,274.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01779.jpg 577.0,206.0,629.0,324.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01879.jpg 396.0,229.0,412.0,266.0,0 417.0,231.0,437.0,279.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01899.jpg 586.0,221.0,615.0,283.0,0 483.0,239.0,516.0,298.0,0 435.0,234.0,461.0,284.0,0 411.0,244.0,431.0,285.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01919.jpg 533.0,234.0,574.0,319.0,0 482.0,257.0,516.0,315.0,0 422.0,259.0,464.0,304.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I01939.jpg 513.0,206.0,537.0,250.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I02179.jpg 542.0,214.0,562.0,259.0,0 522.0,211.0,543.0,256.0,0 503.0,210.0,523.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I02299.jpg 534.0,207.0,557.0,252.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I02379.jpg 445.0,215.0,470.0,265.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I02399.jpg 592.0,216.0,637.0,324.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I02439.jpg 530.0,222.0,557.0,280.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I02679.jpg 451.0,209.0,468.0,249.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I02699.jpg 536.0,205.0,563.0,260.0,0 496.0,203.0,516.0,248.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I02719.jpg 567.0,196.0,591.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I02859.jpg 296.0,211.0,314.0,245.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I02879.jpg 274.0,200.0,300.0,250.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I02899.jpg 186.0,203.0,216.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03139.jpg 448.0,213.0,470.0,256.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03159.jpg 497.0,204.0,517.0,257.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03179.jpg 583.0,198.0,617.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03299.jpg 396.0,210.0,413.0,243.0,0 412.0,210.0,429.0,246.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03319.jpg 443.0,211.0,463.0,253.0,0 404.0,205.0,428.0,254.0,0 386.0,208.0,409.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03339.jpg 527.0,200.0,563.0,274.0,0 464.0,195.0,500.0,274.0,0 431.0,199.0,465.0,268.0,0 364.0,209.0,404.0,246.0,0 413.0,208.0,435.0,244.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03359.jpg 484.0,212.0,514.0,271.0,0 429.0,214.0,454.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03399.jpg 560.0,208.0,615.0,324.0,0 589.0,209.0,640.0,314.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03559.jpg 373.0,210.0,392.0,244.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03579.jpg 396.0,206.0,421.0,253.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03599.jpg 449.0,207.0,480.0,269.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03619.jpg 554.0,206.0,603.0,299.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03699.jpg 443.0,213.0,466.0,257.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03739.jpg 495.0,218.0,513.0,261.0,0 507.0,211.0,530.0,262.0,0 419.0,222.0,446.0,274.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03759.jpg 528.0,215.0,565.0,299.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03779.jpg 398.0,209.0,420.0,257.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03799.jpg 437.0,210.0,462.0,271.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03819.jpg 552.0,197.0,599.0,317.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03939.jpg 519.0,211.0,540.0,259.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V001_I03959.jpg 585.0,211.0,613.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00019.jpg 601.0,213.0,629.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00039.jpg 601.0,217.0,620.0,259.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00059.jpg 602.0,217.0,624.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00079.jpg 611.0,217.0,630.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00219.jpg 375.0,227.0,400.0,283.0,0 336.0,236.0,359.0,283.0,0 123.0,227.0,146.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00239.jpg 584.0,222.0,622.0,280.0,0 314.0,214.0,340.0,263.0,0 459.0,220.0,484.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00259.jpg 505.0,203.0,533.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00299.jpg 568.0,212.0,586.0,248.0,0 496.0,210.0,516.0,246.0,0 452.0,211.0,470.0,246.0,0 403.0,213.0,420.0,247.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00319.jpg 597.0,204.0,618.0,254.0,0 586.0,204.0,610.0,252.0,0 535.0,207.0,563.0,260.0,0 556.0,207.0,586.0,259.0,0 477.0,211.0,501.0,252.0,0 465.0,207.0,485.0,248.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00339.jpg 620.0,202.0,640.0,265.0,0 585.0,210.0,607.0,253.0,0 522.0,210.0,545.0,255.0,0 547.0,210.0,573.0,259.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00359.jpg 596.0,214.0,627.0,268.0,0 532.0,210.0,554.0,257.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00379.jpg 575.0,216.0,601.0,261.0,0 599.0,214.0,624.0,261.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00439.jpg 554.0,205.0,579.0,252.0,0 591.0,207.0,613.0,245.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00499.jpg 385.0,210.0,405.0,243.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00539.jpg 440.0,202.0,465.0,243.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00559.jpg 466.0,205.0,492.0,256.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00579.jpg 502.0,204.0,532.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00599.jpg 533.0,204.0,569.0,274.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00659.jpg 557.0,203.0,598.0,298.0,0 542.0,198.0,563.0,245.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00679.jpg 603.0,201.0,640.0,300.0,0 579.0,197.0,598.0,245.0,0 378.0,209.0,395.0,245.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00699.jpg 611.0,198.0,640.0,259.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00719.jpg 412.0,222.0,432.0,268.0,0 530.0,217.0,558.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00739.jpg 455.0,220.0,479.0,277.0,0 558.0,219.0,587.0,268.0,0 392.0,219.0,408.0,253.0,0 403.0,223.0,420.0,250.0,0 432.0,221.0,450.0,253.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00759.jpg 505.0,218.0,532.0,274.0,0 594.0,210.0,623.0,277.0,0 473.0,210.0,494.0,252.0,0 461.0,212.0,480.0,255.0,0 429.0,212.0,447.0,248.0,0 409.0,210.0,427.0,255.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00779.jpg 556.0,219.0,591.0,296.0,0 452.0,213.0,474.0,262.0,0 482.0,213.0,505.0,262.0,0 496.0,214.0,523.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00799.jpg 569.0,216.0,594.0,266.0,0 583.0,214.0,609.0,268.0,0 506.0,212.0,535.0,269.0,0 522.0,212.0,550.0,269.0,0 485.0,217.0,506.0,260.0,0 466.0,218.0,487.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00839.jpg 619.0,221.0,640.0,279.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00859.jpg 595.0,226.0,622.0,292.0,0 619.0,222.0,640.0,283.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00879.jpg 609.0,214.0,635.0,272.0,0 550.0,214.0,579.0,284.0,0 571.0,216.0,598.0,281.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00899.jpg 564.0,222.0,601.0,298.0,0 585.0,220.0,616.0,297.0,0 617.0,231.0,640.0,294.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00979.jpg 460.0,196.0,485.0,238.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I00999.jpg 530.0,209.0,557.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I01059.jpg 579.0,195.0,609.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I01179.jpg 485.0,209.0,502.0,245.0,0 470.0,210.0,488.0,244.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I01199.jpg 507.0,202.0,527.0,245.0,0 550.0,200.0,570.0,247.0,0 473.0,205.0,491.0,243.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I01219.jpg 563.0,201.0,584.0,248.0,0 585.0,206.0,606.0,250.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I01259.jpg 509.0,204.0,538.0,258.0,0 612.0,198.0,639.0,251.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I01299.jpg 512.0,202.0,540.0,264.0,0 546.0,202.0,569.0,252.0,0 412.0,206.0,432.0,250.0,0 584.0,202.0,610.0,264.0,0 385.0,208.0,401.0,244.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I01319.jpg 572.0,209.0,614.0,299.0,0 456.0,210.0,479.0,261.0,0 439.0,214.0,460.0,254.0,0 404.0,210.0,424.0,255.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I01339.jpg 609.0,200.0,640.0,282.0,0 569.0,202.0,604.0,290.0,0 534.0,208.0,564.0,283.0,0 514.0,210.0,541.0,275.0,0 456.0,211.0,481.0,271.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I01359.jpg 583.0,214.0,629.0,302.0,0 563.0,208.0,604.0,298.0,0 520.0,217.0,544.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I01379.jpg 475.0,215.0,511.0,293.0,0 507.0,214.0,540.0,283.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I01419.jpg 479.0,213.0,502.0,265.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I01439.jpg 598.0,225.0,632.0,291.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set07_V002_I01559.jpg 519.0,212.0,542.0,259.0,0 504.0,212.0,529.0,250.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00019.jpg 574.0,212.0,603.0,301.0,0 191.0,222.0,211.0,260.0,0 492.0,220.0,514.0,257.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00039.jpg 200.0,215.0,224.0,265.0,0 594.0,216.0,620.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00059.jpg 339.0,216.0,375.0,273.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00119.jpg 413.0,210.0,434.0,248.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00159.jpg 530.0,221.0,561.0,276.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00279.jpg 488.0,214.0,508.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00299.jpg 528.0,214.0,551.0,264.0,0 501.0,216.0,524.0,261.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00319.jpg 601.0,209.0,628.0,264.0,0 572.0,218.0,602.0,269.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00339.jpg 565.0,226.0,595.0,296.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00359.jpg 516.0,203.0,542.0,253.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00379.jpg 459.0,211.0,496.0,309.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00399.jpg 579.0,213.0,640.0,390.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00439.jpg 386.0,216.0,413.0,281.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00459.jpg 412.0,217.0,450.0,305.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00479.jpg 496.0,218.0,551.0,368.0,0 565.0,218.0,596.0,277.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00599.jpg 507.0,219.0,524.0,250.0,0 453.0,217.0,469.0,252.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00619.jpg 544.0,217.0,564.0,262.0,0 559.0,212.0,581.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00639.jpg 602.0,220.0,624.0,277.0,0 564.0,217.0,590.0,276.0,0 615.0,211.0,640.0,272.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00659.jpg 559.0,220.0,583.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00699.jpg 575.0,220.0,600.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00759.jpg 586.0,226.0,613.0,305.0,0 542.0,227.0,580.0,318.0,0 606.0,220.0,635.0,301.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00779.jpg 527.0,225.0,566.0,341.0,0 135.0,198.0,174.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00799.jpg 342.0,205.0,413.0,379.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00819.jpg 343.0,218.0,389.0,341.0,0 576.0,234.0,612.0,317.0,0 619.0,232.0,640.0,323.0,0 501.0,223.0,530.0,285.0,0 407.0,205.0,440.0,285.0,0 380.0,212.0,421.0,284.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00839.jpg 38.0,221.0,122.0,411.0,0 463.0,231.0,508.0,352.0,0 211.0,203.0,251.0,300.0,0 182.0,201.0,210.0,297.0,0 257.0,206.0,296.0,300.0,0 346.0,218.0,375.0,286.0,0 510.0,218.0,531.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00859.jpg 526.0,240.0,597.0,424.0,0 601.0,235.0,640.0,444.0,0 216.0,216.0,257.0,314.0,0 158.0,207.0,201.0,305.0,0 263.0,208.0,313.0,313.0,0 330.0,217.0,360.0,288.0,0 512.0,222.0,535.0,270.0,0 529.0,224.0,550.0,267.0,0 501.0,216.0,515.0,245.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00879.jpg 223.0,212.0,270.0,341.0,0 135.0,211.0,177.0,340.0,0 295.0,209.0,348.0,334.0,0 558.0,230.0,580.0,286.0,0 536.0,223.0,561.0,286.0,0 341.0,217.0,372.0,291.0,0 511.0,220.0,528.0,255.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00899.jpg 151.0,209.0,213.0,369.0,0 464.0,235.0,489.0,304.0,0 442.0,232.0,470.0,300.0,0 406.0,220.0,428.0,265.0,0 205.0,229.0,241.0,306.0,0 17.0,212.0,92.0,391.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00919.jpg 427.0,234.0,459.0,326.0,0 90.0,215.0,136.0,317.0,0 403.0,231.0,438.0,330.0,0 333.0,217.0,359.0,266.0,0 129.0,212.0,160.0,276.0,0 183.0,214.0,205.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00939.jpg 493.0,242.0,542.0,393.0,0 13.0,225.0,76.0,336.0,0 161.0,214.0,190.0,270.0,0 316.0,220.0,342.0,271.0,0 446.0,231.0,513.0,393.0,0 145.0,212.0,175.0,269.0,0 255.0,213.0,275.0,246.0,0 377.0,215.0,399.0,261.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00959.jpg 175.0,220.0,201.0,277.0,0 343.0,226.0,366.0,283.0,0 155.0,215.0,185.0,275.0,0 422.0,216.0,448.0,278.0,0 276.0,215.0,295.0,250.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00979.jpg 162.0,217.0,193.0,296.0,0 362.0,230.0,392.0,294.0,0 128.0,211.0,164.0,293.0,0 475.0,211.0,510.0,294.0,0 293.0,214.0,312.0,249.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I00999.jpg 115.0,226.0,160.0,333.0,0 387.0,231.0,433.0,331.0,0 72.0,217.0,118.0,336.0,0 305.0,217.0,328.0,255.0,0 572.0,212.0,610.0,309.0,0 153.0,226.0,184.0,301.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01019.jpg 71.0,220.0,119.0,344.0,0 474.0,231.0,531.0,403.0,0 298.0,214.0,313.0,241.0,0 110.0,228.0,151.0,344.0,0 312.0,212.0,330.0,243.0,0 326.0,210.0,345.0,253.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01039.jpg 1.0,244.0,56.0,447.0,0 336.0,218.0,356.0,259.0,0 308.0,213.0,325.0,245.0,0 322.0,214.0,337.0,248.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01059.jpg 338.0,219.0,356.0,265.0,0 308.0,220.0,323.0,248.0,0 318.0,220.0,336.0,252.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01079.jpg 357.0,213.0,386.0,269.0,0 299.0,216.0,314.0,254.0,0 325.0,218.0,342.0,250.0,0 430.0,213.0,454.0,259.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01099.jpg 393.0,216.0,421.0,274.0,0 310.0,214.0,333.0,260.0,0 332.0,219.0,349.0,255.0,0 295.0,211.0,318.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01119.jpg 320.0,216.0,342.0,266.0,0 346.0,226.0,363.0,264.0,0 304.0,216.0,329.0,272.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01139.jpg 330.0,216.0,360.0,283.0,0 365.0,224.0,383.0,270.0,0 314.0,218.0,340.0,285.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01159.jpg 326.0,219.0,360.0,297.0,0 374.0,231.0,394.0,273.0,0 303.0,218.0,340.0,303.0,0 560.0,231.0,615.0,352.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01179.jpg 296.0,219.0,337.0,328.0,0 374.0,232.0,398.0,278.0,0 269.0,220.0,316.0,328.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01199.jpg 233.0,216.0,291.0,369.0,0 377.0,229.0,400.0,275.0,0 191.0,217.0,256.0,361.0,0 295.0,215.0,306.0,241.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01219.jpg 89.0,208.0,181.0,442.0,0 380.0,225.0,407.0,274.0,0 43.0,214.0,129.0,441.0,0 290.0,210.0,307.0,245.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01239.jpg 380.0,249.0,406.0,301.0,0 285.0,233.0,304.0,269.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01259.jpg 388.0,258.0,410.0,313.0,0 286.0,241.0,305.0,278.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01279.jpg 386.0,235.0,414.0,289.0,0 274.0,215.0,293.0,251.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01299.jpg 380.0,242.0,406.0,301.0,0 255.0,221.0,274.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01319.jpg 376.0,215.0,405.0,278.0,0 235.0,191.0,259.0,234.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01339.jpg 386.0,232.0,417.0,309.0,0 229.0,217.0,248.0,253.0,0 249.0,213.0,263.0,241.0,0 260.0,212.0,274.0,240.0,0 303.0,217.0,317.0,243.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01359.jpg 419.0,241.0,450.0,328.0,0 218.0,216.0,242.0,267.0,0 254.0,211.0,271.0,245.0,0 236.0,212.0,252.0,243.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01379.jpg 473.0,247.0,521.0,370.0,0 217.0,218.0,243.0,274.0,0 254.0,210.0,270.0,244.0,0 237.0,213.0,254.0,244.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01399.jpg 208.0,217.0,244.0,296.0,0 348.0,212.0,369.0,252.0,0 250.0,211.0,272.0,252.0,0 264.0,206.0,286.0,256.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01419.jpg 150.0,220.0,199.0,326.0,0 241.0,209.0,268.0,267.0,0 365.0,213.0,389.0,262.0,0 257.0,208.0,282.0,267.0,0 347.0,215.0,363.0,242.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01439.jpg 220.0,204.0,249.0,277.0,0 373.0,219.0,396.0,272.0,0 236.0,211.0,262.0,277.0,0 326.0,207.0,341.0,247.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01459.jpg 181.0,207.0,217.0,302.0,0 390.0,221.0,420.0,285.0,0 207.0,208.0,239.0,298.0,0 314.0,205.0,332.0,248.0,0 325.0,207.0,342.0,245.0,0 344.0,213.0,361.0,245.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01479.jpg 84.0,210.0,145.0,352.0,0 410.0,221.0,447.0,318.0,0 131.0,220.0,180.0,349.0,0 315.0,209.0,333.0,255.0,0 300.0,209.0,323.0,256.0,0 336.0,213.0,352.0,249.0,0 346.0,213.0,361.0,249.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01499.jpg 469.0,230.0,524.0,360.0,0 314.0,210.0,336.0,258.0,0 302.0,210.0,323.0,257.0,0 337.0,215.0,354.0,249.0,0 351.0,217.0,368.0,248.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01519.jpg 316.0,213.0,341.0,262.0,0 288.0,215.0,309.0,263.0,0 355.0,220.0,377.0,263.0,0 102.0,206.0,131.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01539.jpg 291.0,220.0,317.0,271.0,0 263.0,212.0,287.0,269.0,0 327.0,220.0,352.0,267.0,0 34.0,196.0,74.0,273.0,0 346.0,221.0,368.0,272.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01559.jpg 259.0,210.0,285.0,274.0,0 233.0,211.0,260.0,277.0,0 293.0,220.0,319.0,284.0,0 314.0,219.0,344.0,286.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01579.jpg 249.0,214.0,278.0,284.0,0 279.0,224.0,306.0,295.0,0 301.0,224.0,336.0,301.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01599.jpg 295.0,223.0,334.0,317.0,0 324.0,224.0,358.0,321.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01619.jpg 314.0,227.0,350.0,335.0,0 351.0,228.0,395.0,339.0,0 335.0,228.0,365.0,336.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01639.jpg 320.0,232.0,369.0,363.0,0 380.0,234.0,428.0,365.0,0 360.0,234.0,393.0,367.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01659.jpg 349.0,248.0,408.0,405.0,0 425.0,242.0,480.0,418.0,0 389.0,246.0,438.0,406.0,0 361.0,223.0,378.0,256.0,0 373.0,223.0,388.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01679.jpg 415.0,253.0,485.0,468.0,0 512.0,248.0,595.0,497.0,0 462.0,254.0,522.0,485.0,0 380.0,223.0,405.0,275.0,0 369.0,222.0,394.0,273.0,0 258.0,218.0,277.0,262.0,0 446.0,217.0,491.0,323.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01699.jpg 402.0,220.0,425.0,271.0,0 535.0,284.0,629.0,507.0,0 388.0,219.0,412.0,272.0,0 275.0,217.0,296.0,257.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01719.jpg 413.0,223.0,432.0,272.0,0 395.0,221.0,417.0,268.0,0 280.0,217.0,300.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01739.jpg 407.0,224.0,429.0,270.0,0 393.0,223.0,416.0,271.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01759.jpg 400.0,224.0,421.0,279.0,0 383.0,223.0,409.0,276.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01779.jpg 359.0,229.0,379.0,279.0,0 182.0,220.0,210.0,284.0,0 344.0,222.0,370.0,279.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01799.jpg 169.0,220.0,192.0,277.0,0 190.0,224.0,210.0,274.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01859.jpg 379.0,228.0,416.0,306.0,0 476.0,222.0,515.0,307.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01879.jpg 129.0,214.0,184.0,315.0,0 266.0,218.0,310.0,316.0,0 496.0,230.0,541.0,341.0,0 425.0,222.0,464.0,324.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01899.jpg 121.0,220.0,187.0,339.0,0 485.0,231.0,537.0,373.0,0 340.0,225.0,377.0,343.0,0 360.0,220.0,399.0,313.0,0 264.0,220.0,302.0,319.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01919.jpg 3.0,220.0,62.0,384.0,0 526.0,235.0,602.0,435.0,0 271.0,218.0,327.0,364.0,0 321.0,217.0,366.0,328.0,0 379.0,211.0,401.0,255.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01939.jpg 351.0,215.0,371.0,261.0,0 262.0,220.0,321.0,355.0,0 369.0,212.0,395.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01959.jpg 20.0,230.0,100.0,440.0,0 351.0,215.0,377.0,264.0,0 200.0,218.0,267.0,381.0,0 152.0,215.0,210.0,396.0,0 364.0,212.0,384.0,258.0,0 71.0,231.0,169.0,449.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01979.jpg 322.0,218.0,343.0,259.0,0 90.0,221.0,179.0,412.0,0 6.0,221.0,94.0,452.0,0 335.0,219.0,355.0,261.0,0 352.0,216.0,370.0,251.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I01999.jpg 295.0,216.0,313.0,260.0,0 307.0,215.0,327.0,265.0,0 335.0,216.0,356.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02019.jpg 287.0,213.0,308.0,265.0,0 298.0,210.0,323.0,266.0,0 342.0,214.0,365.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02039.jpg 290.0,216.0,311.0,269.0,0 302.0,212.0,326.0,270.0,0 358.0,220.0,384.0,283.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02059.jpg 295.0,222.0,315.0,285.0,0 307.0,222.0,332.0,283.0,0 378.0,223.0,411.0,303.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02079.jpg 291.0,215.0,320.0,289.0,0 309.0,216.0,340.0,292.0,0 429.0,213.0,476.0,344.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02099.jpg 269.0,215.0,306.0,308.0,0 296.0,213.0,331.0,302.0,0 580.0,216.0,640.0,490.0,0 336.0,213.0,360.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02119.jpg 230.0,213.0,271.0,334.0,0 263.0,213.0,303.0,329.0,0 378.0,216.0,406.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02139.jpg 157.0,211.0,209.0,362.0,0 195.0,206.0,248.0,361.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02159.jpg 64.0,241.0,135.0,430.0,0 120.0,233.0,187.0,417.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02179.jpg 1.0,213.0,91.0,489.0,0 533.0,227.0,565.0,284.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02199.jpg 227.0,214.0,247.0,258.0,0 582.0,243.0,620.0,306.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02219.jpg 225.0,219.0,246.0,266.0,0 332.0,223.0,347.0,255.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02239.jpg 238.0,216.0,263.0,264.0,0 355.0,220.0,372.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02259.jpg 247.0,231.0,276.0,288.0,0 378.0,230.0,398.0,272.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02279.jpg 216.0,220.0,243.0,284.0,0 364.0,220.0,386.0,264.0,0 199.0,220.0,225.0,282.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02299.jpg 174.0,200.0,206.0,273.0,0 152.0,200.0,183.0,274.0,0 356.0,206.0,382.0,259.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02319.jpg 130.0,220.0,165.0,310.0,0 91.0,216.0,128.0,307.0,0 357.0,218.0,383.0,281.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02339.jpg 63.0,225.0,109.0,336.0,0 19.0,224.0,65.0,334.0,0 364.0,223.0,396.0,293.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02359.jpg 392.0,221.0,430.0,310.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02379.jpg 469.0,225.0,514.0,355.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02399.jpg 306.0,212.0,321.0,247.0,0 294.0,211.0,310.0,249.0,0 279.0,212.0,297.0,249.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02419.jpg 310.0,209.0,327.0,244.0,0 294.0,208.0,310.0,244.0,0 277.0,203.0,298.0,245.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02439.jpg 306.0,213.0,323.0,254.0,0 287.0,215.0,304.0,252.0,0 264.0,214.0,290.0,255.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02459.jpg 290.0,211.0,313.0,268.0,0 268.0,215.0,286.0,261.0,0 248.0,210.0,272.0,264.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02479.jpg 273.0,216.0,301.0,279.0,0 248.0,217.0,271.0,279.0,0 222.0,217.0,248.0,275.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02499.jpg 251.0,214.0,282.0,302.0,0 223.0,221.0,253.0,298.0,0 202.0,220.0,231.0,295.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02519.jpg 228.0,210.0,268.0,313.0,0 191.0,220.0,227.0,320.0,0 161.0,211.0,201.0,321.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V000_I02539.jpg 147.0,213.0,215.0,375.0,0 102.0,226.0,160.0,387.0,0 45.0,215.0,109.0,392.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00139.jpg 418.0,231.0,440.0,277.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00159.jpg 456.0,232.0,477.0,281.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00179.jpg 484.0,231.0,510.0,285.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00199.jpg 511.0,247.0,534.0,301.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00219.jpg 513.0,223.0,539.0,276.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00239.jpg 511.0,213.0,536.0,279.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00259.jpg 506.0,226.0,537.0,297.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00279.jpg 467.0,225.0,503.0,303.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00299.jpg 351.0,224.0,389.0,309.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00319.jpg 162.0,225.0,198.0,323.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00339.jpg 556.0,240.0,603.0,320.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00359.jpg 224.0,240.0,271.0,331.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00599.jpg 492.0,208.0,515.0,263.0,0 307.0,209.0,326.0,242.0,0 122.0,206.0,145.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00619.jpg 484.0,215.0,512.0,271.0,0 94.0,204.0,119.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00639.jpg 459.0,208.0,487.0,276.0,0 291.0,206.0,311.0,250.0,0 41.0,196.0,78.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00659.jpg 439.0,210.0,469.0,287.0,0 287.0,210.0,308.0,256.0,0 6.0,202.0,46.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00679.jpg 418.0,208.0,454.0,291.0,0 307.0,207.0,333.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00699.jpg 394.0,205.0,433.0,312.0,0 375.0,207.0,402.0,264.0,0 31.0,209.0,71.0,290.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00719.jpg 353.0,206.0,408.0,321.0,0 476.0,206.0,504.0,263.0,0 119.0,208.0,155.0,291.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00739.jpg 563.0,207.0,595.0,271.0,0 206.0,209.0,246.0,293.0,0 236.0,217.0,292.0,337.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00759.jpg 612.0,202.0,640.0,265.0,0 284.0,210.0,320.0,302.0,0 77.0,213.0,132.0,338.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00779.jpg 345.0,215.0,385.0,298.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00799.jpg 404.0,212.0,442.0,294.0,0 325.0,199.0,342.0,243.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00819.jpg 459.0,211.0,491.0,283.0,0 325.0,198.0,341.0,236.0,0 315.0,198.0,330.0,239.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00839.jpg 503.0,208.0,535.0,280.0,0 443.0,200.0,463.0,237.0,0 326.0,198.0,341.0,239.0,0 313.0,199.0,330.0,241.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00859.jpg 557.0,206.0,589.0,281.0,0 326.0,199.0,343.0,238.0,0 315.0,200.0,332.0,238.0,0 449.0,200.0,468.0,236.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00899.jpg 335.0,192.0,354.0,232.0,0 477.0,189.0,498.0,229.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00919.jpg 347.0,187.0,368.0,230.0,0 500.0,189.0,517.0,227.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00939.jpg 355.0,194.0,373.0,232.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00959.jpg 355.0,195.0,376.0,239.0,0 505.0,191.0,525.0,236.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00979.jpg 307.0,196.0,339.0,246.0,0 357.0,195.0,375.0,236.0,0 504.0,189.0,524.0,235.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I00999.jpg 426.0,193.0,445.0,232.0,0 503.0,192.0,523.0,232.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01019.jpg 508.0,195.0,529.0,240.0,0 429.0,196.0,449.0,241.0,0 357.0,196.0,380.0,243.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01039.jpg 521.0,198.0,544.0,246.0,0 439.0,203.0,462.0,249.0,0 343.0,206.0,367.0,248.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01059.jpg 279.0,213.0,303.0,259.0,0 433.0,212.0,456.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01079.jpg 363.0,224.0,380.0,264.0,0 345.0,212.0,367.0,266.0,0 458.0,207.0,488.0,264.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01099.jpg 251.0,221.0,274.0,266.0,0 231.0,210.0,254.0,270.0,0 213.0,224.0,234.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01119.jpg 266.0,217.0,298.0,293.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01199.jpg 617.0,212.0,637.0,257.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01219.jpg 605.0,209.0,626.0,253.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01239.jpg 515.0,220.0,535.0,267.0,0 543.0,216.0,563.0,261.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01259.jpg 280.0,213.0,298.0,242.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01279.jpg 284.0,214.0,299.0,246.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01299.jpg 282.0,213.0,297.0,247.0,0 141.0,212.0,162.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01319.jpg 275.0,213.0,293.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01339.jpg 263.0,215.0,286.0,261.0,0 28.0,213.0,56.0,285.0,0 585.0,219.0,608.0,286.0,0 547.0,211.0,564.0,251.0,0 509.0,214.0,528.0,251.0,0 522.0,214.0,537.0,250.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01359.jpg 216.0,211.0,250.0,278.0,0 585.0,210.0,611.0,261.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01379.jpg 130.0,213.0,173.0,295.0,0 595.0,214.0,617.0,266.0,0 581.0,216.0,601.0,268.0,0 551.0,210.0,571.0,256.0,0 534.0,209.0,557.0,259.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01419.jpg 489.0,213.0,509.0,258.0,0 505.0,208.0,525.0,259.0,0 521.0,212.0,541.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01439.jpg 552.0,209.0,578.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01559.jpg 479.0,206.0,497.0,247.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01579.jpg 599.0,210.0,633.0,286.0,0 508.0,209.0,528.0,250.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01599.jpg 141.0,209.0,159.0,247.0,0 483.0,213.0,506.0,272.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01619.jpg 548.0,212.0,578.0,280.0,0 465.0,207.0,491.0,265.0,0 481.0,211.0,504.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01639.jpg 112.0,214.0,134.0,253.0,0 502.0,209.0,531.0,279.0,0 530.0,214.0,553.0,276.0,0 563.0,220.0,585.0,271.0,0 580.0,213.0,604.0,275.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01659.jpg 94.0,209.0,118.0,255.0,0 558.0,206.0,588.0,292.0,0 582.0,215.0,612.0,288.0,0 419.0,218.0,438.0,254.0,0 393.0,220.0,410.0,255.0,0 440.0,216.0,459.0,256.0,0 502.0,216.0,522.0,248.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01679.jpg 81.0,216.0,105.0,253.0,0 426.0,219.0,443.0,257.0,0 398.0,218.0,413.0,256.0,0 451.0,220.0,467.0,263.0,0 505.0,218.0,524.0,255.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01699.jpg 397.0,220.0,419.0,262.0,0 429.0,221.0,448.0,260.0,0 499.0,213.0,517.0,256.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01719.jpg 600.0,221.0,630.0,293.0,0 333.0,215.0,352.0,254.0,0 399.0,221.0,419.0,262.0,0 432.0,220.0,449.0,261.0,0 504.0,216.0,521.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01739.jpg 597.0,224.0,629.0,301.0,0 398.0,223.0,420.0,269.0,0 429.0,222.0,450.0,268.0,0 59.0,213.0,82.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01759.jpg 595.0,228.0,629.0,303.0,0 53.0,215.0,78.0,262.0,0 399.0,221.0,420.0,267.0,0 431.0,223.0,449.0,269.0,0 452.0,222.0,472.0,272.0,0 472.0,224.0,492.0,269.0,0 507.0,220.0,522.0,262.0,0 519.0,220.0,535.0,271.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01779.jpg 595.0,224.0,631.0,298.0,0 400.0,222.0,420.0,268.0,0 475.0,219.0,494.0,269.0,0 503.0,220.0,522.0,264.0,0 514.0,222.0,534.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01799.jpg 598.0,228.0,633.0,303.0,0 398.0,221.0,419.0,266.0,0 54.0,214.0,78.0,260.0,0 429.0,222.0,448.0,266.0,0 452.0,223.0,471.0,266.0,0 474.0,224.0,494.0,269.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01819.jpg 600.0,227.0,631.0,296.0,0 451.0,218.0,472.0,264.0,0 56.0,213.0,81.0,259.0,0 473.0,220.0,493.0,267.0,0 502.0,222.0,524.0,273.0,0 517.0,219.0,534.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01839.jpg 596.0,224.0,630.0,299.0,0 51.0,214.0,77.0,264.0,0 400.0,224.0,418.0,266.0,0 430.0,220.0,451.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01859.jpg 598.0,225.0,629.0,301.0,0 398.0,224.0,418.0,268.0,0 502.0,221.0,522.0,268.0,0 517.0,221.0,533.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01879.jpg 598.0,224.0,627.0,297.0,0 401.0,223.0,421.0,269.0,0 502.0,220.0,523.0,266.0,0 516.0,218.0,534.0,263.0,0 549.0,224.0,567.0,271.0,0 565.0,221.0,589.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01899.jpg 598.0,229.0,632.0,312.0,0 400.0,223.0,419.0,269.0,0 53.0,214.0,79.0,259.0,0 505.0,220.0,524.0,270.0,0 516.0,220.0,536.0,263.0,0 542.0,224.0,560.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01919.jpg 597.0,227.0,630.0,294.0,0 52.0,213.0,78.0,261.0,0 399.0,227.0,419.0,263.0,0 504.0,224.0,520.0,271.0,0 514.0,220.0,534.0,265.0,0 532.0,223.0,550.0,264.0,0 542.0,215.0,562.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01939.jpg 598.0,220.0,631.0,307.0,0 399.0,224.0,419.0,268.0,0 50.0,211.0,76.0,264.0,0 525.0,211.0,548.0,264.0,0 507.0,220.0,524.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01959.jpg 598.0,220.0,629.0,299.0,0 398.0,220.0,421.0,266.0,0 52.0,212.0,80.0,258.0,0 472.0,222.0,493.0,265.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01979.jpg 594.0,229.0,630.0,303.0,0 55.0,210.0,81.0,268.0,0 400.0,222.0,420.0,267.0,0 527.0,225.0,547.0,271.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I01999.jpg 593.0,225.0,627.0,300.0,0 398.0,220.0,421.0,267.0,0 50.0,214.0,77.0,265.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02019.jpg 597.0,225.0,624.0,305.0,0 50.0,210.0,76.0,267.0,0 75.0,205.0,100.0,263.0,0 396.0,221.0,421.0,268.0,0 554.0,220.0,577.0,272.0,0 501.0,222.0,521.0,268.0,0 515.0,220.0,534.0,262.0,0 475.0,220.0,497.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02039.jpg 596.0,226.0,630.0,297.0,0 398.0,224.0,422.0,268.0,0 573.0,229.0,595.0,272.0,0 501.0,223.0,521.0,269.0,0 515.0,218.0,534.0,262.0,0 472.0,222.0,495.0,265.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02059.jpg 595.0,222.0,626.0,299.0,0 399.0,221.0,420.0,265.0,0 53.0,209.0,80.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02079.jpg 600.0,225.0,628.0,303.0,0 53.0,212.0,81.0,264.0,0 398.0,222.0,421.0,270.0,0 503.0,219.0,523.0,270.0,0 515.0,220.0,532.0,263.0,0 470.0,220.0,493.0,269.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02099.jpg 593.0,226.0,632.0,302.0,0 399.0,223.0,421.0,269.0,0 50.0,211.0,78.0,261.0,0 473.0,221.0,494.0,268.0,0 501.0,223.0,520.0,264.0,0 515.0,217.0,533.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02119.jpg 593.0,221.0,625.0,295.0,0 398.0,223.0,422.0,268.0,0 53.0,210.0,79.0,263.0,0 473.0,220.0,496.0,269.0,0 504.0,220.0,523.0,267.0,0 517.0,221.0,534.0,257.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02139.jpg 596.0,226.0,630.0,299.0,0 53.0,214.0,80.0,262.0,0 398.0,224.0,421.0,267.0,0 500.0,222.0,524.0,273.0,0 519.0,218.0,538.0,263.0,0 474.0,221.0,493.0,264.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02159.jpg 596.0,225.0,624.0,299.0,0 619.0,231.0,640.0,293.0,0 397.0,224.0,420.0,266.0,0 500.0,218.0,525.0,268.0,0 520.0,217.0,538.0,261.0,0 54.0,213.0,79.0,262.0,0 474.0,222.0,493.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02179.jpg 600.0,228.0,626.0,298.0,0 49.0,213.0,77.0,262.0,0 398.0,226.0,422.0,269.0,0 501.0,222.0,522.0,268.0,0 520.0,220.0,541.0,262.0,0 473.0,222.0,493.0,265.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02199.jpg 599.0,227.0,626.0,296.0,0 398.0,223.0,420.0,266.0,0 50.0,211.0,76.0,262.0,0 501.0,222.0,524.0,271.0,0 517.0,216.0,538.0,262.0,0 476.0,224.0,494.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02219.jpg 596.0,224.0,626.0,297.0,0 52.0,214.0,79.0,262.0,0 517.0,220.0,539.0,262.0,0 401.0,224.0,424.0,266.0,0 473.0,223.0,494.0,266.0,0 498.0,223.0,518.0,269.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02239.jpg 598.0,229.0,627.0,304.0,0 518.0,217.0,538.0,265.0,0 398.0,222.0,420.0,268.0,0 53.0,210.0,80.0,261.0,0 472.0,223.0,493.0,265.0,0 494.0,226.0,512.0,266.0,0 507.0,222.0,522.0,264.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02259.jpg 597.0,227.0,631.0,299.0,0 397.0,223.0,420.0,267.0,0 49.0,216.0,81.0,261.0,0 28.0,208.0,53.0,249.0,0 493.0,222.0,511.0,268.0,0 505.0,223.0,522.0,268.0,0 518.0,220.0,540.0,261.0,0 473.0,220.0,493.0,268.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02279.jpg 596.0,226.0,627.0,299.0,0 50.0,214.0,77.0,258.0,0 6.0,209.0,32.0,250.0,0 491.0,229.0,509.0,269.0,0 504.0,221.0,523.0,268.0,0 518.0,220.0,534.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02299.jpg 595.0,231.0,630.0,301.0,0 50.0,213.0,79.0,258.0,0 516.0,221.0,535.0,260.0,0 400.0,224.0,418.0,265.0,0 412.0,215.0,432.0,267.0,0 474.0,222.0,496.0,269.0,0 494.0,222.0,518.0,271.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02319.jpg 594.0,227.0,633.0,302.0,0 51.0,211.0,80.0,259.0,0 494.0,222.0,514.0,268.0,0 507.0,218.0,525.0,270.0,0 517.0,215.0,536.0,264.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02339.jpg 578.0,231.0,604.0,305.0,0 386.0,224.0,410.0,265.0,0 58.0,212.0,86.0,258.0,0 20.0,206.0,47.0,252.0,0 491.0,220.0,508.0,266.0,0 507.0,224.0,522.0,265.0,0 520.0,220.0,539.0,264.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02359.jpg 608.0,220.0,634.0,310.0,0 606.0,214.0,633.0,300.0,0 579.0,227.0,612.0,311.0,0 69.0,218.0,100.0,265.0,0 361.0,223.0,378.0,268.0,0 378.0,220.0,403.0,266.0,0 396.0,219.0,419.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02379.jpg 525.0,219.0,565.0,327.0,0 101.0,221.0,128.0,266.0,0 326.0,226.0,352.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02399.jpg 413.0,221.0,444.0,303.0,0 551.0,271.0,640.0,512,0 454.0,219.0,496.0,336.0,0 597.0,225.0,619.0,284.0,0 318.0,215.0,344.0,265.0,0 615.0,226.0,639.0,287.0,0 297.0,222.0,320.0,263.0,0 134.0,220.0,156.0,266.0,0 338.0,220.0,360.0,264.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02419.jpg 360.0,221.0,394.0,301.0,0 304.0,266.0,405.0,512.0,0 402.0,274.0,505.0,512.0,0 389.0,220.0,432.0,321.0,0 160.0,219.0,185.0,265.0,0 259.0,220.0,285.0,266.0,0 281.0,219.0,305.0,263.0,0 300.0,220.0,326.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02439.jpg 317.0,218.0,351.0,298.0,0 59.0,269.0,156.0,512,0 572.0,227.0,611.0,299.0,0 386.0,226.0,420.0,293.0,0 613.0,218.0,640.0,279.0,0 197.0,216.0,221.0,267.0,0 265.0,214.0,292.0,264.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02459.jpg 278.0,215.0,310.0,291.0,0 473.0,227.0,503.0,307.0,0 68.0,218.0,123.0,327.0,0 346.0,224.0,377.0,291.0,0 440.0,255.0,464.0,304.0,0 233.0,217.0,259.0,267.0,0 581.0,217.0,605.0,272.0,0 602.0,217.0,627.0,275.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02479.jpg 241.0,220.0,270.0,279.0,0 419.0,227.0,450.0,308.0,0 470.0,225.0,506.0,309.0,0 161.0,217.0,208.0,316.0,0 303.0,226.0,336.0,293.0,0 18.0,220.0,89.0,349.0,0 391.0,248.0,416.0,302.0,0 199.0,217.0,225.0,262.0,0 327.0,220.0,352.0,264.0,0 441.0,224.0,477.0,303.0,0 520.0,226.0,541.0,269.0,0 538.0,228.0,560.0,271.0,0 576.0,221.0,601.0,272.0,0 594.0,216.0,620.0,273.0,0 64.0,220.0,87.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02499.jpg 209.0,217.0,233.0,282.0,0 222.0,220.0,248.0,307.0,0 378.0,224.0,411.0,306.0,0 423.0,220.0,454.0,305.0,0 239.0,218.0,273.0,309.0,0 272.0,225.0,301.0,285.0,0 117.0,223.0,174.0,345.0,0 4.0,217.0,74.0,394.0,0 344.0,253.0,371.0,299.0,0 401.0,223.0,434.0,297.0,0 167.0,220.0,191.0,263.0,0 301.0,219.0,321.0,266.0,0 319.0,218.0,341.0,266.0,0 528.0,223.0,550.0,271.0,0 550.0,226.0,573.0,272.0,0 573.0,222.0,593.0,265.0,0 587.0,219.0,612.0,271.0,0 618.0,224.0,639.0,271.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02519.jpg 171.0,215.0,196.0,281.0,0 184.0,219.0,214.0,304.0,0 341.0,221.0,371.0,306.0,0 378.0,220.0,411.0,309.0,0 300.0,220.0,332.0,303.0,0 237.0,220.0,265.0,287.0,0 209.0,218.0,249.0,344.0,0 108.0,216.0,173.0,375.0,0 286.0,247.0,315.0,299.0,0 362.0,222.0,387.0,299.0,0 16.0,206.0,41.0,248.0,0 39.0,208.0,69.0,251.0,0 96.0,221.0,124.0,278.0,0 538.0,224.0,564.0,277.0,0 562.0,226.0,588.0,273.0,0 584.0,218.0,609.0,271.0,0 602.0,219.0,624.0,276.0,0 620.0,216.0,640.0,277.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02539.jpg 135.0,218.0,160.0,281.0,0 150.0,219.0,182.0,298.0,0 339.0,218.0,366.0,300.0,0 370.0,220.0,406.0,307.0,0 197.0,220.0,225.0,288.0,0 285.0,221.0,326.0,329.0,0 209.0,216.0,274.0,372.0,0 320.0,225.0,346.0,294.0,0 104.0,217.0,125.0,264.0,0 401.0,217.0,429.0,274.0,0 505.0,217.0,524.0,256.0,0 521.0,217.0,542.0,257.0,0 554.0,223.0,577.0,277.0,0 580.0,227.0,606.0,277.0,0 601.0,217.0,627.0,275.0,0 32.0,210.0,54.0,246.0,0 252.0,217.0,274.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02559.jpg 107.0,217.0,132.0,279.0,0 128.0,220.0,156.0,291.0,0 253.0,219.0,285.0,302.0,0 295.0,218.0,328.0,306.0,0 423.0,223.0,459.0,300.0,0 160.0,220.0,194.0,286.0,0 300.0,218.0,357.0,363.0,0 14.0,217.0,53.0,320.0,0 193.0,244.0,218.0,292.0,0 336.0,224.0,382.0,326.0,0 530.0,218.0,553.0,264.0,0 64.0,217.0,86.0,263.0,0 80.0,217.0,101.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02579.jpg 105.0,220.0,131.0,287.0,0 215.0,218.0,248.0,297.0,0 256.0,215.0,288.0,298.0,0 454.0,224.0,484.0,295.0,0 124.0,212.0,153.0,283.0,0 477.0,221.0,533.0,339.0,0 81.0,214.0,118.0,312.0,0 587.0,226.0,617.0,283.0,0 159.0,245.0,185.0,283.0,0 57.0,210.0,83.0,256.0,0 40.0,217.0,62.0,263.0,0 18.0,217.0,45.0,262.0,0 192.0,218.0,216.0,266.0,0 305.0,220.0,334.0,269.0,0 617.0,227.0,640.0,277.0,0 568.0,220.0,590.0,267.0,0 554.0,227.0,574.0,272.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02599.jpg 78.0,222.0,104.0,271.0,0 187.0,220.0,215.0,288.0,0 222.0,218.0,255.0,292.0,0 109.0,222.0,134.0,276.0,0 436.0,222.0,470.0,345.0,0 57.0,231.0,96.0,332.0,0 398.0,229.0,433.0,329.0,0 140.0,222.0,172.0,299.0,0 540.0,231.0,571.0,292.0,0 602.0,227.0,626.0,284.0,0 500.0,222.0,518.0,270.0,0 511.0,222.0,526.0,271.0,0 523.0,219.0,542.0,273.0,0 356.0,220.0,379.0,273.0,0 252.0,222.0,277.0,282.0,0 269.0,220.0,296.0,284.0,0 168.0,222.0,189.0,267.0,0 460.0,231.0,501.0,349.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02619.jpg 29.0,227.0,54.0,276.0,0 44.0,222.0,70.0,282.0,0 188.0,213.0,221.0,297.0,0 474.0,221.0,510.0,309.0,0 85.0,221.0,114.0,278.0,0 148.0,232.0,190.0,340.0,0 63.0,220.0,88.0,276.0,0 223.0,241.0,241.0,281.0,0 234.0,222.0,253.0,279.0,0 245.0,221.0,269.0,278.0,0 284.0,221.0,310.0,270.0,0 406.0,225.0,428.0,272.0,0 453.0,214.0,472.0,254.0,0 580.0,238.0,613.0,328.0,0 615.0,231.0,639.0,283.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02639.jpg 25.0,218.0,54.0,275.0,0 128.0,220.0,156.0,290.0,0 159.0,217.0,187.0,292.0,0 481.0,215.0,505.0,262.0,0 67.0,223.0,93.0,279.0,0 245.0,223.0,292.0,345.0,0 221.0,217.0,251.0,286.0,0 489.0,233.0,541.0,365.0,0 2.0,235.0,59.0,379.0,0 450.0,225.0,480.0,293.0,0 273.0,226.0,309.0,315.0,0 618.0,219.0,639.0,276.0,0 590.0,218.0,611.0,259.0,0 527.0,221.0,562.0,321.0,0 560.0,230.0,592.0,315.0,0 516.0,224.0,541.0,295.0,0 315.0,221.0,341.0,272.0,0 101.0,225.0,126.0,260.0,0 182.0,221.0,204.0,286.0,0 206.0,220.0,228.0,282.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02659.jpg 100.0,223.0,131.0,288.0,0 135.0,216.0,163.0,285.0,0 495.0,220.0,516.0,277.0,0 335.0,234.0,389.0,353.0,0 200.0,221.0,232.0,308.0,0 259.0,220.0,289.0,288.0,0 399.0,232.0,452.0,361.0,0 150.0,238.0,233.0,372.0,0 219.0,223.0,258.0,316.0,0 151.0,217.0,178.0,284.0,0 78.0,218.0,100.0,266.0,0 47.0,219.0,74.0,276.0,0 471.0,221.0,493.0,263.0,0 512.0,220.0,531.0,267.0,0 528.0,222.0,550.0,277.0,0 545.0,224.0,573.0,305.0,0 564.0,220.0,591.0,307.0,0 586.0,227.0,617.0,308.0,0 614.0,220.0,639.0,265.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02679.jpg 75.0,222.0,105.0,279.0,0 109.0,219.0,141.0,288.0,0 431.0,238.0,491.0,355.0,0 155.0,222.0,188.0,303.0,0 299.0,221.0,346.0,360.0,0 325.0,241.0,371.0,374.0,0 356.0,229.0,380.0,285.0,0 175.0,228.0,205.0,294.0,0 121.0,247.0,141.0,285.0,0 140.0,220.0,167.0,286.0,0 37.0,224.0,59.0,267.0,0 49.0,212.0,74.0,256.0,0 9.0,218.0,35.0,266.0,0 370.0,228.0,395.0,285.0,0 384.0,226.0,405.0,271.0,0 583.0,222.0,611.0,293.0,0 603.0,225.0,635.0,294.0,0 561.0,217.0,584.0,277.0,0 542.0,220.0,565.0,279.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02699.jpg 47.0,219.0,76.0,278.0,0 82.0,218.0,114.0,285.0,0 533.0,239.0,572.0,346.0,0 119.0,220.0,150.0,296.0,0 199.0,223.0,256.0,357.0,0 464.0,250.0,531.0,373.0,0 76.0,229.0,160.0,366.0,0 307.0,227.0,334.0,289.0,0 153.0,221.0,190.0,298.0,0 409.0,224.0,435.0,276.0,0 25.0,217.0,50.0,275.0,0 5.0,218.0,31.0,272.0,0 327.0,222.0,353.0,287.0,0 425.0,220.0,448.0,277.0,0 438.0,220.0,464.0,272.0,0 468.0,211.0,541.0,270.0,0 551.0,224.0,575.0,279.0,0 569.0,219.0,592.0,285.0,0 600.0,222.0,626.0,296.0,0 621.0,222.0,640.0,288.0,0 586.0,225.0,608.0,274.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02719.jpg 21.0,217.0,52.0,282.0,0 58.0,212.0,86.0,279.0,0 116.0,220.0,141.0,283.0,0 120.0,231.0,177.0,350.0,0 200.0,226.0,278.0,370.0,0 270.0,229.0,296.0,285.0,0 143.0,223.0,174.0,291.0,0 379.0,219.0,400.0,274.0,0 359.0,220.0,383.0,275.0,0 288.0,224.0,311.0,284.0,0 70.0,215.0,99.0,286.0,0 92.0,222.0,118.0,284.0,0 438.0,220.0,461.0,272.0,0 562.0,223.0,586.0,290.0,0 583.0,220.0,609.0,287.0,0 611.0,225.0,636.0,297.0,0 542.0,221.0,564.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02739.jpg 103.0,224.0,129.0,281.0,0 13.0,231.0,79.0,365.0,0 342.0,235.0,416.0,378.0,0 234.0,229.0,259.0,284.0,0 125.0,222.0,158.0,286.0,0 303.0,220.0,330.0,271.0,0 285.0,223.0,315.0,269.0,0 253.0,224.0,279.0,283.0,0 47.0,226.0,76.0,287.0,0 86.0,221.0,111.0,275.0,0 509.0,217.0,531.0,268.0,0 526.0,219.0,547.0,261.0,0 378.0,220.0,406.0,275.0,0 577.0,223.0,605.0,295.0,0 595.0,221.0,621.0,288.0,0 619.0,226.0,640.0,284.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02759.jpg 80.0,220.0,114.0,281.0,0 460.0,236.0,529.0,375.0,0 210.0,227.0,232.0,280.0,0 104.0,220.0,137.0,280.0,0 243.0,220.0,271.0,269.0,0 222.0,223.0,247.0,274.0,0 393.0,218.0,419.0,276.0,0 600.0,221.0,626.0,289.0,0 620.0,227.0,640.0,287.0,0 67.0,220.0,92.0,274.0,0 50.0,238.0,72.0,274.0,0 30.0,214.0,59.0,276.0,0 2.0,222.0,31.0,299.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02779.jpg 59.0,220.0,91.0,285.0,0 80.0,220.0,119.0,292.0,0 166.0,218.0,195.0,270.0,0 45.0,219.0,71.0,270.0,0 13.0,214.0,48.0,276.0,0 404.0,221.0,428.0,271.0,0 376.0,217.0,398.0,261.0,0 603.0,228.0,628.0,295.0,0 528.0,221.0,550.0,272.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02799.jpg 150.0,227.0,174.0,273.0,0 42.0,221.0,69.0,283.0,0 72.0,219.0,99.0,278.0,0 18.0,212.0,48.0,270.0,0 130.0,222.0,155.0,272.0,0 165.0,223.0,188.0,275.0,0 417.0,218.0,439.0,270.0,0 505.0,224.0,527.0,274.0,0 520.0,227.0,540.0,273.0,0 551.0,220.0,576.0,274.0,0 608.0,230.0,637.0,290.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02819.jpg 128.0,224.0,153.0,275.0,0 35.0,217.0,65.0,273.0,0 55.0,222.0,82.0,271.0,0 393.0,221.0,421.0,268.0,0 427.0,220.0,449.0,269.0,0 96.0,220.0,121.0,267.0,0 143.0,221.0,165.0,272.0,0 470.0,220.0,490.0,271.0,0 483.0,218.0,504.0,267.0,0 451.0,213.0,467.0,253.0,0 515.0,222.0,537.0,276.0,0 530.0,221.0,551.0,269.0,0 580.0,221.0,603.0,272.0,0 612.0,220.0,632.0,266.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02839.jpg 99.0,226.0,126.0,273.0,0 22.0,218.0,51.0,275.0,0 359.0,219.0,383.0,267.0,0 376.0,222.0,400.0,267.0,0 525.0,221.0,547.0,276.0,0 538.0,220.0,562.0,273.0,0 119.0,223.0,143.0,269.0,0 46.0,215.0,70.0,270.0,0 69.0,216.0,95.0,263.0,0 433.0,221.0,458.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02859.jpg 77.0,227.0,101.0,270.0,0 323.0,225.0,346.0,266.0,0 307.0,220.0,331.0,268.0,0 537.0,221.0,564.0,279.0,0 553.0,223.0,577.0,276.0,0 591.0,214.0,614.0,265.0,0 568.0,218.0,591.0,273.0,0 93.0,221.0,119.0,268.0,0 46.0,218.0,67.0,268.0,0 21.0,215.0,47.0,271.0,0 4.0,213.0,30.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02879.jpg 285.0,223.0,306.0,263.0,0 254.0,221.0,276.0,264.0,0 551.0,222.0,575.0,279.0,0 569.0,220.0,591.0,281.0,0 599.0,217.0,622.0,268.0,0 35.0,215.0,61.0,262.0,0 11.0,213.0,37.0,269.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02899.jpg 37.0,225.0,61.0,271.0,0 250.0,218.0,275.0,264.0,0 212.0,220.0,236.0,266.0,0 568.0,217.0,588.0,283.0,0 584.0,225.0,608.0,283.0,0 601.0,212.0,621.0,262.0,0 534.0,219.0,560.0,268.0,0 55.0,221.0,79.0,268.0,0 18.0,210.0,45.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02919.jpg 20.0,221.0,42.0,269.0,0 213.0,223.0,239.0,265.0,0 177.0,219.0,205.0,266.0,0 580.0,218.0,607.0,288.0,0 598.0,220.0,625.0,297.0,0 35.0,209.0,59.0,251.0,0 518.0,216.0,543.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02939.jpg 179.0,220.0,203.0,265.0,0 141.0,219.0,169.0,265.0,0 594.0,222.0,622.0,294.0,0 613.0,229.0,638.0,297.0,0 45.0,203.0,69.0,257.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V001_I02959.jpg 145.0,221.0,169.0,269.0,0 110.0,220.0,138.0,269.0,0 596.0,217.0,617.0,266.0,0 612.0,227.0,638.0,294.0,0 46.0,208.0,69.0,259.0,0 26.0,210.0,50.0,257.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00019.jpg 517.0,223.0,539.0,276.0,0 87.0,220.0,113.0,272.0,0 63.0,227.0,89.0,275.0,0 529.0,221.0,551.0,272.0,0 468.0,210.0,489.0,253.0,0 501.0,217.0,520.0,265.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00039.jpg 558.0,230.0,580.0,285.0,0 517.0,216.0,541.0,271.0,0 570.0,225.0,592.0,284.0,0 529.0,214.0,553.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00059.jpg 585.0,229.0,610.0,298.0,0 529.0,215.0,554.0,272.0,0 602.0,220.0,633.0,296.0,0 545.0,215.0,566.0,273.0,0 515.0,214.0,538.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00079.jpg 563.0,211.0,588.0,269.0,0 439.0,205.0,459.0,242.0,0 574.0,208.0,598.0,272.0,0 533.0,211.0,558.0,267.0,0 548.0,210.0,572.0,269.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00099.jpg 451.0,203.0,476.0,249.0,0 467.0,201.0,490.0,249.0,0 615.0,206.0,640.0,286.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00119.jpg 547.0,210.0,574.0,277.0,0 516.0,204.0,539.0,267.0,0 458.0,208.0,479.0,255.0,0 532.0,207.0,554.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00139.jpg 535.0,202.0,564.0,268.0,0 510.0,203.0,535.0,259.0,0 602.0,203.0,634.0,277.0,0 480.0,207.0,498.0,244.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00159.jpg 590.0,203.0,620.0,271.0,0 609.0,198.0,637.0,285.0,0 520.0,200.0,547.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00179.jpg 578.0,203.0,609.0,271.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00199.jpg 585.0,206.0,613.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00239.jpg 509.0,207.0,534.0,284.0,0 119.0,209.0,139.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00259.jpg 540.0,209.0,571.0,288.0,0 119.0,211.0,145.0,261.0,0 99.0,214.0,125.0,267.0,0 84.0,217.0,107.0,272.0,0 573.0,221.0,601.0,286.0,0 609.0,210.0,637.0,295.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00279.jpg 592.0,208.0,627.0,305.0,0 123.0,210.0,152.0,267.0,0 111.0,210.0,136.0,274.0,0 577.0,214.0,607.0,295.0,0 140.0,212.0,163.0,264.0,0 616.0,220.0,640.0,299.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00299.jpg 160.0,215.0,187.0,272.0,0 137.0,216.0,170.0,278.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00319.jpg 187.0,219.0,218.0,282.0,0 161.0,214.0,193.0,282.0,0 393.0,210.0,424.0,272.0,0 37.0,216.0,71.0,277.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00339.jpg 382.0,212.0,412.0,279.0,0 213.0,223.0,244.0,289.0,0 188.0,220.0,224.0,294.0,0 57.0,216.0,94.0,292.0,0 24.0,218.0,58.0,287.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00359.jpg 359.0,210.0,394.0,287.0,0 256.0,223.0,286.0,295.0,0 225.0,225.0,258.0,302.0,0 88.0,217.0,123.0,293.0,0 43.0,223.0,78.0,282.0,0 197.0,223.0,227.0,288.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00379.jpg 349.0,212.0,382.0,290.0,0 107.0,221.0,131.0,294.0,0 68.0,224.0,104.0,295.0,0 228.0,217.0,260.0,295.0,0 119.0,222.0,150.0,292.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00399.jpg 157.0,219.0,193.0,305.0,0 98.0,221.0,139.0,293.0,0 147.0,220.0,173.0,299.0,0 272.0,214.0,308.0,300.0,0 374.0,225.0,407.0,313.0,0 392.0,232.0,421.0,305.0,0 317.0,217.0,353.0,296.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00419.jpg 201.0,220.0,224.0,304.0,0 279.0,213.0,315.0,311.0,0 35.0,216.0,102.0,326.0,0 212.0,220.0,246.0,307.0,0 145.0,221.0,186.0,301.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00439.jpg 547.0,223.0,579.0,306.0,0 220.0,211.0,256.0,315.0,0 366.0,217.0,401.0,303.0,0 120.0,219.0,165.0,318.0,0 207.0,221.0,234.0,307.0,0 99.0,215.0,135.0,317.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00459.jpg 262.0,222.0,298.0,304.0,0 171.0,221.0,212.0,321.0,0 413.0,220.0,445.0,300.0,0 554.0,219.0,587.0,290.0,0 141.0,213.0,184.0,323.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00479.jpg 240.0,218.0,281.0,316.0,0 446.0,219.0,473.0,296.0,0 534.0,223.0,565.0,295.0,0 261.0,219.0,297.0,314.0,0 389.0,225.0,419.0,309.0,0 370.0,231.0,397.0,297.0,0 317.0,225.0,353.0,300.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00499.jpg 491.0,226.0,517.0,292.0,0 480.0,228.0,505.0,289.0,0 6.0,222.0,53.0,329.0,0 432.0,234.0,465.0,310.0,0 416.0,233.0,448.0,310.0,0 374.0,231.0,402.0,312.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00519.jpg 523.0,222.0,550.0,284.0,0 379.0,227.0,409.0,311.0,0 488.0,229.0,520.0,316.0,0 424.0,236.0,455.0,308.0,0 271.0,214.0,291.0,255.0,0 359.0,226.0,389.0,297.0,0 410.0,228.0,437.0,297.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00539.jpg 434.0,224.0,467.0,316.0,0 415.0,227.0,445.0,313.0,0 573.0,221.0,600.0,294.0,0 465.0,231.0,504.0,310.0,0 556.0,230.0,585.0,306.0,0 270.0,214.0,290.0,255.0,0 455.0,235.0,480.0,307.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00559.jpg 469.0,226.0,502.0,317.0,0 240.0,220.0,278.0,312.0,0 532.0,229.0,564.0,314.0,0 487.0,226.0,524.0,322.0,0 270.0,213.0,290.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00579.jpg 105.0,221.0,153.0,328.0,0 556.0,232.0,590.0,331.0,0 540.0,229.0,571.0,337.0,0 272.0,214.0,292.0,255.0,0 502.0,209.0,519.0,249.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00599.jpg 269.0,216.0,289.0,257.0,0 512.0,209.0,532.0,244.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00619.jpg 263.0,212.0,283.0,256.0,0 525.0,209.0,545.0,244.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00639.jpg 262.0,211.0,282.0,262.0,0 536.0,207.0,557.0,245.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00659.jpg 257.0,216.0,281.0,276.0,0 544.0,213.0,565.0,251.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00679.jpg 252.0,226.0,277.0,280.0,0 551.0,217.0,572.0,255.0,0 564.0,215.0,589.0,256.0,0 576.0,213.0,599.0,255.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00699.jpg 248.0,218.0,276.0,277.0,0 559.0,212.0,584.0,255.0,0 570.0,212.0,597.0,262.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00719.jpg 241.0,217.0,269.0,274.0,0 554.0,212.0,579.0,261.0,0 591.0,212.0,619.0,263.0,0 573.0,212.0,596.0,258.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00739.jpg 236.0,216.0,265.0,278.0,0 612.0,211.0,639.0,262.0,0 553.0,209.0,578.0,258.0,0 571.0,206.0,594.0,259.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00759.jpg 233.0,215.0,262.0,279.0,0 565.0,212.0,590.0,264.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00779.jpg 228.0,216.0,258.0,273.0,0 537.0,211.0,559.0,262.0,0 562.0,210.0,585.0,252.0,0 590.0,212.0,614.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00799.jpg 228.0,213.0,257.0,284.0,0 536.0,206.0,561.0,251.0,0 551.0,207.0,574.0,249.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00819.jpg 226.0,215.0,254.0,284.0,0 534.0,207.0,559.0,252.0,0 551.0,207.0,574.0,249.0,0 615.0,210.0,640.0,264.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00839.jpg 221.0,214.0,255.0,287.0,0 526.0,210.0,551.0,255.0,0 543.0,207.0,566.0,249.0,0 613.0,211.0,637.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00859.jpg 522.0,213.0,542.0,252.0,0 539.0,212.0,562.0,254.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00879.jpg 214.0,214.0,240.0,288.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00899.jpg 214.0,217.0,240.0,270.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00919.jpg 215.0,218.0,242.0,286.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00939.jpg 232.0,220.0,261.0,289.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00959.jpg 284.0,220.0,314.0,299.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I00979.jpg 367.0,227.0,403.0,305.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01019.jpg 205.0,216.0,257.0,317.0,0 501.0,212.0,532.0,279.0,0 521.0,210.0,550.0,279.0,0 165.0,209.0,216.0,305.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01039.jpg 340.0,220.0,395.0,333.0,0 162.0,235.0,204.0,344.0,0 377.0,218.0,425.0,323.0,0 160.0,221.0,196.0,329.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01059.jpg 434.0,244.0,477.0,365.0,0 419.0,229.0,460.0,325.0,0 34.0,210.0,59.0,265.0,0 567.0,226.0,632.0,360.0,0 12.0,210.0,38.0,267.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01099.jpg 433.0,213.0,461.0,265.0,0 390.0,216.0,413.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01119.jpg 497.0,207.0,528.0,271.0,0 479.0,208.0,506.0,278.0,0 453.0,210.0,479.0,277.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01139.jpg 552.0,206.0,578.0,269.0,0 584.0,210.0,620.0,294.0,0 531.0,210.0,562.0,281.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01159.jpg 598.0,208.0,632.0,282.0,0 578.0,208.0,607.0,280.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01179.jpg 244.0,212.0,264.0,253.0,0 253.0,210.0,272.0,252.0,0 103.0,198.0,132.0,249.0,0 87.0,197.0,116.0,248.0,0 75.0,198.0,102.0,252.0,0 305.0,207.0,325.0,244.0,0 288.0,206.0,303.0,236.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01199.jpg 256.0,212.0,277.0,259.0,0 267.0,212.0,292.0,263.0,0 119.0,194.0,146.0,237.0,0 105.0,194.0,129.0,251.0,0 79.0,201.0,104.0,251.0,0 359.0,213.0,385.0,259.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01219.jpg 80.0,195.0,107.0,252.0,0 33.0,203.0,67.0,267.0,0 395.0,210.0,416.0,256.0,0 534.0,219.0,560.0,286.0,0 55.0,197.0,85.0,247.0,0 562.0,207.0,582.0,252.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01239.jpg 202.0,230.0,237.0,293.0,0 216.0,224.0,251.0,300.0,0 597.0,235.0,637.0,323.0,0 432.0,215.0,461.0,273.0,0 573.0,231.0,602.0,287.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01259.jpg 62.0,220.0,113.0,321.0,0 573.0,227.0,602.0,296.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01279.jpg 536.0,217.0,569.0,294.0,0 262.0,203.0,292.0,251.0,0 512.0,200.0,539.0,264.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01299.jpg 399.0,210.0,429.0,278.0,0 384.0,208.0,413.0,280.0,0 567.0,223.0,608.0,325.0,0 251.0,209.0,277.0,260.0,0 495.0,208.0,523.0,274.0,0 509.0,212.0,536.0,276.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01319.jpg 462.0,213.0,497.0,291.0,0 456.0,210.0,481.0,289.0,0 293.0,212.0,319.0,260.0,0 542.0,210.0,572.0,278.0,0 560.0,214.0,587.0,280.0,0 439.0,210.0,461.0,256.0,0 346.0,208.0,368.0,252.0,0 205.0,211.0,225.0,250.0,0 179.0,214.0,197.0,250.0,0 425.0,215.0,440.0,246.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01339.jpg 553.0,204.0,591.0,281.0,0 442.0,203.0,469.0,258.0,0 30.0,196.0,64.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01359.jpg 587.0,206.0,625.0,268.0,0 433.0,219.0,460.0,261.0,0 403.0,213.0,428.0,256.0,0 157.0,206.0,183.0,261.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01379.jpg 564.0,220.0,593.0,277.0,0 496.0,221.0,522.0,267.0,0 243.0,212.0,276.0,277.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01399.jpg 550.0,214.0,580.0,276.0,0 433.0,220.0,460.0,265.0,0 146.0,212.0,179.0,284.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01419.jpg 587.0,216.0,618.0,283.0,0 415.0,222.0,445.0,271.0,0 90.0,213.0,124.0,292.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01439.jpg 410.0,226.0,436.0,276.0,0 21.0,214.0,69.0,309.0,0 66.0,220.0,97.0,281.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01459.jpg 445.0,219.0,478.0,289.0,0 28.0,219.0,72.0,306.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01479.jpg 480.0,219.0,510.0,297.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01499.jpg 559.0,225.0,606.0,328.0,0 495.0,214.0,518.0,271.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01519.jpg 582.0,218.0,610.0,284.0,0 491.0,210.0,516.0,269.0,0 505.0,213.0,525.0,262.0,0 522.0,214.0,544.0,263.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01539.jpg 547.0,210.0,574.0,283.0,0 583.0,212.0,609.0,277.0,0 602.0,212.0,631.0,279.0,0 569.0,212.0,596.0,279.0,0 512.0,209.0,536.0,261.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01559.jpg 595.0,214.0,626.0,294.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01659.jpg 573.0,219.0,609.0,305.0,0 593.0,232.0,629.0,330.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01679.jpg 498.0,226.0,524.0,287.0,0 369.0,225.0,390.0,282.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01699.jpg 554.0,206.0,583.0,288.0,0 367.0,208.0,390.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01719.jpg 373.0,224.0,404.0,290.0,0 499.0,226.0,522.0,272.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01739.jpg 402.0,220.0,435.0,294.0,0 387.0,226.0,409.0,290.0,0 558.0,222.0,585.0,286.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01759.jpg 429.0,232.0,464.0,316.0,0 418.0,233.0,448.0,317.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01779.jpg 489.0,225.0,530.0,361.0,0 465.0,229.0,503.0,354.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01799.jpg 592.0,246.0,640.0,474.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01839.jpg 98.0,209.0,128.0,288.0,0 69.0,207.0,107.0,288.0,0 145.0,210.0,169.0,255.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01859.jpg 18.0,205.0,63.0,317.0,0 4.0,204.0,41.0,323.0,0 598.0,219.0,623.0,285.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01879.jpg 88.0,206.0,118.0,270.0,0 495.0,214.0,518.0,267.0,0 167.0,210.0,190.0,250.0,0 48.0,210.0,82.0,287.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01899.jpg 33.0,206.0,74.0,285.0,0 177.0,207.0,198.0,260.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01919.jpg 178.0,208.0,201.0,266.0,0 515.0,220.0,544.0,287.0,0 536.0,224.0,559.0,278.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01939.jpg 151.0,204.0,179.0,271.0,0 140.0,211.0,163.0,272.0,0 584.0,225.0,618.0,314.0,0 610.0,220.0,640.0,316.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01959.jpg 98.0,202.0,127.0,272.0,0 77.0,207.0,112.0,277.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01979.jpg 56.0,213.0,91.0,281.0,0 41.0,210.0,71.0,280.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I01999.jpg 33.0,205.0,69.0,281.0,0 16.0,201.0,53.0,280.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I02019.jpg 588.0,214.0,625.0,330.0,0 614.0,226.0,640.0,333.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I02039.jpg 1.0,207.0,36.0,287.0,0 571.0,223.0,615.0,334.0,0 598.0,227.0,640.0,333.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I02059.jpg 47.0,219.0,82.0,295.0,0 29.0,219.0,65.0,292.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I02079.jpg 63.0,218.0,96.0,298.0,0 41.0,216.0,76.0,303.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I02099.jpg 29.0,204.0,74.0,301.0,0 7.0,206.0,50.0,309.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I02139.jpg 515.0,218.0,539.0,279.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I02159.jpg 582.0,213.0,612.0,290.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I02339.jpg 487.0,222.0,512.0,275.0,0 504.0,221.0,531.0,274.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I02359.jpg 507.0,211.0,535.0,284.0,0 541.0,215.0,565.0,279.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I02379.jpg 568.0,209.0,605.0,302.0,0 608.0,214.0,640.0,295.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I02419.jpg 596.0,217.0,629.0,286.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I02439.jpg 443.0,247.0,464.0,292.0,0 493.0,238.0,513.0,279.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I02459.jpg 468.0,171.0,492.0,223.0,0 442.0,171.0,467.0,225.0,0 524.0,160.0,546.0,206.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I02479.jpg 501.0,209.0,528.0,265.0,0 471.0,206.0,496.0,260.0,0 568.0,193.0,594.0,261.0,0 587.0,188.0,612.0,250.0,0
+C:\Users\gary\Desktop\b09\test\JPEGImages\set08_V002_I02499.jpg 520.0,209.0,558.0,289.0,0 549.0,213.0,589.0,283.0,0
